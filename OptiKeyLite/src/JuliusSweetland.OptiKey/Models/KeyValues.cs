@@ -58,6 +58,7 @@ namespace OptiKey.Models
         public static readonly KeyValue F7Key = new KeyValue(FunctionKeys.F7);
         public static readonly KeyValue F8Key = new KeyValue(FunctionKeys.F8);
         public static readonly KeyValue F9Key = new KeyValue(FunctionKeys.F9);
+        public static readonly KeyValue FoodKeyboardKey = new KeyValue(FunctionKeys.FoodKeyboard);
         public static readonly KeyValue FrenchFranceKey = new KeyValue(FunctionKeys.FrenchFrance);
         public static readonly KeyValue GermanGermanyKey = new KeyValue(FunctionKeys.GermanGermany);
         public static readonly KeyValue HomeKey = new KeyValue(FunctionKeys.Home);

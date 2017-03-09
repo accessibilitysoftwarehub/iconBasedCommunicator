@@ -18,6 +18,7 @@
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("dictionaries/spanishspain.dic")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("bass.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("tobii.eyex.client.dll")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/icons/svg%20source%20files/banana.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/icons/svg%20source%20files/bird.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/icons/svg%20source%20files/food.png")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("resources/icons/svg%20source%20files/happy.png")]

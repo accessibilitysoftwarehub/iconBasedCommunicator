@@ -88,4 +88,5 @@
     <BitmapImage x:Key="GameIcon" UriSource="/Resources/Icons/SVG Source Files/videogame.png"/>
     <BitmapImage x:Key="BirdIcon" UriSource="/Resources/Icons/SVG Source Files/bird.png"/>
     <BitmapImage x:Key="MusicIcon" UriSource="/Resources/Icons/SVG Source Files/music.png" />
+    <BitmapImage x:Key="BananaIcon" UriSource="/Resources/Icons/SVG Source Files/banana.png" />
 </ResourceDictionary>

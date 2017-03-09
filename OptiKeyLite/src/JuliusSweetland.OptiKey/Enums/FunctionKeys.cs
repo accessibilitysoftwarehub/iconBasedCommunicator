@@ -52,6 +52,7 @@
         F7,
         F8,
         F9,
+        FoodKeyboard,
         FrenchFrance,
         GermanGermany,
         Home,

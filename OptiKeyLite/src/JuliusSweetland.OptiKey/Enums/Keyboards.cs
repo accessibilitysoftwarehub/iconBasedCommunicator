@@ -10,6 +10,7 @@
         Diacritics1,
         Diacritics2,
         Diacritics3,
+        Food,
         Menu,
         Minimised,
         Mouse,

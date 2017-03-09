@@ -271,6 +271,10 @@ namespace OptiKey.UI.Controls
                         break;
                 }
             }
+            else if(Keyboard is ViewModelKeyboards.Food)
+            {
+                newContent = new CommonViews.Food { DataContext = Keyboard };
+            }
             else if (Keyboard is ViewModelKeyboards.Language)
             {
                 newContent = new CommonViews.Language { DataContext = Keyboard };
