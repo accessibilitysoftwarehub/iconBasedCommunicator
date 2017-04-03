@@ -207,9 +207,9 @@ namespace OptiKey.UI.Controls
 
         public static readonly DependencyProperty IconImageProperty =
             DependencyProperty.Register("IconImage", typeof(BitmapImage), typeof(Key),
-            new PropertyMetadata(default(string), OnIconImageOrTextChanged));
+            new PropertyMetadata(default(string), OnIconImageOrTextChanged)); 
 
-        public BitmapImage IconImage
+        public BitmapImage IconImage 
         {
             get { return (BitmapImage)GetValue(IconImageProperty); }
             set { SetValue(IconImageProperty, value); }
