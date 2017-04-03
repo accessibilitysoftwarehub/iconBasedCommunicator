@@ -401,6 +401,11 @@ namespace OptiKey.UI.ViewModels
                         mainWindowManipulationService.Expand(ExpandToDirections.TopRight, Settings.Default.MoveAndResizeAdjustmentAmountInPixels);
                         break;
 
+                    case FunctionKeys.FoodKeyboard:
+                        Log.Info("Changing keyboard to PhysicalKeys.");
+                        Keyboard = new Food();
+                        break;
+
                     case FunctionKeys.FrenchFrance:
                         Log.Info("Changing keyboard language to FrenchFrance.");
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete

@@ -316,6 +316,12 @@ namespace OptiKey.UI.ViewModels
                         mainWindowManipulationService.ResizeDockToFull();
                         break;
 
+                    case Enums.Keyboards.Food:
+                        Keyboard = new Food();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
+
                     case Enums.Keyboards.Menu:
                         Keyboard = new Menu(() => Keyboard = new Alpha());
                         windowManipulationService.Restore();

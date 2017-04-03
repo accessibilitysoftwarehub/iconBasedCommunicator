@@ -88,4 +88,18 @@
     <BitmapImage x:Key="GameIcon" UriSource="/Resources/Icons/SVG Source Files/videogame.png"/>
     <BitmapImage x:Key="BirdIcon" UriSource="/Resources/Icons/SVG Source Files/bird.png"/>
     <BitmapImage x:Key="MusicIcon" UriSource="/Resources/Icons/SVG Source Files/music.png" />
+    <BitmapImage x:Key="BananaIcon" UriSource="/Resources/Icons/SVG Source Files/banana.png" />
+    <BitmapImage x:Key="TickIcon" UriSource="/Resources/Icons/SVG Source Files/checked.png" />
+    <BitmapImage x:Key="CrossIcon" UriSource="/Resources/Icons/SVG Source Files/cancel.png" />
+    <BitmapImage x:Key="QuestionIcon" UriSource="/Resources/Icons/SVG Source Files/question.png" />
+    <BitmapImage x:Key="ShirtIcon" UriSource="/Resources/Icons/SVG Source Files/shirt.png" />
+    <BitmapImage x:Key="PlacesIcon" UriSource="/Resources/Icons/SVG Source Files/places.png" />
+    <BitmapImage x:Key="EmotionIcon" UriSource="/Resources/Icons/SVG Source Files/emoticons.png" />
+    <BitmapImage x:Key="HouseIcon" UriSource="/Resources/Icons/SVG Source Files/house.png" />
+    <BitmapImage x:Key="PeopleIcon" UriSource="/Resources/Icons/SVG Source Files/network.png" />
+    <BitmapImage x:Key="BasketballIcon" UriSource="/Resources/Icons/SVG Source Files/basketball.png" />
+    <BitmapImage x:Key="KeyboardOptionIcon" UriSource="/Resources/Icons/SVG Source Files/keyboard.png" />
+    <BitmapImage x:Key="ClockIcon" UriSource="/Resources/Icons/SVG Source Files/clock.png" />
+    <BitmapImage x:Key="TemperatureIcon" UriSource="/Resources/Icons/SVG Source Files/temperature.png" />
+    <BitmapImage x:Key="GreetingIcon" UriSource="/Resources/Icons/SVG Source Files/greeting.png" />
 </ResourceDictionary>
