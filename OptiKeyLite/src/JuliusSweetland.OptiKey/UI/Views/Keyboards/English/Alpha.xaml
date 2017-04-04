@@ -25,7 +25,6 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
@@ -52,8 +51,9 @@
             <ColumnDefinition Width="*" />            
         </Grid.ColumnDefinitions>
 
-        <controls:Output Grid.Row="0" Grid.Column="0"
-                         Grid.RowSpan="2" Grid.ColumnSpan="24" 
+        <!-- will need to revert row span back to 2 when reverting whole keyboard-->
+        <controls:IconOutput Grid.Row="0" Grid.Column="0"
+                         Grid.RowSpan="1" Grid.ColumnSpan="24" 
                          ScratchpadWidthInKeys="8"
                          NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
         <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
@@ -61,112 +61,112 @@
         <!-- right key -->
 
         <!-- left key -->
-        <controls:Key Grid.Row="2"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource TickIcon}"
                       Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="YES"
                         />
-        <controls:Key Grid.Row="4"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource CrossIcon}"
                       Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="NO"
                         />
-        <controls:Key Grid.Row="6"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource QuestionIcon}"
                       Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I'm not sure"
                         />
-        <controls:Key Grid.Row="8"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7"  Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="2"
                         />
 
 
         <!-- KEYBOARD KEYS  -->
-        <controls:Key Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource FoodIcon}"
                       Text="Food"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.FoodKeyboardKey}"/>
-        <controls:Key Grid.Row="2" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource HouseIcon}"
                       Text="Household"
                       SharedSizeGroup="KeyWithSymbol"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource PeopleIcon}"
                       Text="People"
                       SharedSizeGroup="KeyWithSymbol"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource BasketballIcon}"
                       Text="Sports"
                       SharedSizeGroup="KeyWithSymbol"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource ShirtIcon}"
                       Text="Clothes"
                       SharedSizeGroup="KeyWithSymbol"
                       />
 
 
-        <controls:Key Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource PlacesIcon}"
                       Text="Places"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="4" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource EmotionIcon}"
                       Text="Emotions"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="4" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource MusicIcon}"
                       Text="Music"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="4" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GameIcon}"
                       Text="Gaming"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="4" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="3" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource ClockIcon}"
                       Text="Time"
                       SharedSizeGroup="KeyWithSymbol"
                         />
 
 
-        <controls:Key Grid.Row="6" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource TemperatureIcon}"
                       Text="Temperature"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="6" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GreetingIcon}"
                       Text="Greetings"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="6" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource KeyboardOptionIcon}"
                       Text="Keyboard"
                       SharedSizeGroup="KeyWithSymbol"
                         />
-        <controls:Key Grid.Row="6" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
-        <controls:Key Grid.Row="6" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="5" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
 
-        <controls:Key Grid.Row="8" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
-        <controls:Key Grid.Row="8" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
-        <controls:Key Grid.Row="8" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
-        <controls:Key Grid.Row="8" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
-        <controls:Key Grid.Row="8" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
+        <controls:Key Grid.Row="7" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
         <!--Hex for "\n"-->
         <!--<controls:Key Grid.Row="5" Grid.Column="20" Grid.ColumnSpan="2"

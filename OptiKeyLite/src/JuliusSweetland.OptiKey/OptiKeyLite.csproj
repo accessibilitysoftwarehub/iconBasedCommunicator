@@ -316,6 +316,9 @@
     <Compile Include="UI\Behaviours\TextBoxBehaviours.cs" />
     <Compile Include="UI\Behaviours\KeyBehaviours.cs" />
     <Compile Include="UI\Behaviours\ScrollViewerBehaviours.cs" />
+    <Compile Include="UI\Controls\IconOutput.xaml.cs">
+      <DependentUpon>IconOutput.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Controls\KeyboardView.cs" />
     <Compile Include="UI\Controls\ToastNotification.cs" />
     <Compile Include="UI\Controls\Cursor.cs" />
@@ -692,6 +695,9 @@
     <Content Include="Resources\Icons\SVG Source Files\clock.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG Source Files\food.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Source Files\greeting.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -705,9 +711,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Source Files\emoticons.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\Icons\SVG Source Files\food.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Source Files\happy.png">
@@ -919,6 +922,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="Resources\Themes\Colours\Android.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Controls\IconOutput.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
