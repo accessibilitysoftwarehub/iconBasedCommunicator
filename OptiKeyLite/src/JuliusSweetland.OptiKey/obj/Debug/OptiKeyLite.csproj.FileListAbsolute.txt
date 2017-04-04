@@ -497,10 +497,24 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DutchNetherlands.dic
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\CatalanSpain.dic
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\SpanishSpain.dic
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\banana.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\basketball.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\bird.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\cancel.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\checked.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\clock.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\food.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\greeting.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\keyboard.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\network.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\places.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\emoticons.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\happy.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\house.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\music.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\question.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\shirt.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\temperature.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\videogame.png
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click2.wav
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click3.wav
@@ -606,9 +620,12 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Icons\KeySymbols.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Colours\Android.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.g.cs
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.g.cs
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.g.cs
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.g.cs
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.g.cs
@@ -668,6 +685,8 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_MarkupCompile.lref
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Light.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Dark.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.baml
@@ -733,20 +752,3 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\nl\OptiKey.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.exe
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.pdb
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.g.cs
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.baml
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\banana.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\cancel.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\checked.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\question.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\basketball.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\clock.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\keyboard.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\network.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\places.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\emoticons.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\house.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\shirt.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\greeting.png
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\temperature.png

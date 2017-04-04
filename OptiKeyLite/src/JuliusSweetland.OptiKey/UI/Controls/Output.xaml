@@ -122,7 +122,7 @@
                       Text="{x:Static resx:Resources.ADD_TO_DICTIONARY_SPLIT_WITH_NEWLINE}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.AddToDictionaryKey}"/>
-        <controls:Key Grid.Row="1" Grid.Column="1"
+        <controls:Key Grid.Row="1" Grid.Column="1"                   
                       SymbolGeometry="{StaticResource ClearIcon}" 
                       Text="{x:Static resx:Resources.CLEAR}"
                       SharedSizeGroup="KeyWithSymbol"
@@ -134,7 +134,7 @@
                       Text="{x:Static resx:Resources.SPEAK}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.SpeakKey}"/>
-        <controls:Key Grid.Row="2" Grid.Column="21" Grid.ColumnSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="21" Grid.ColumnSpan="2"
                       SymbolGeometry="{StaticResource MenuIcon}"
                       Text="{x:Static resx:Resources.MENU}"
                       SharedSizeGroup="KeyWithSymbol"
