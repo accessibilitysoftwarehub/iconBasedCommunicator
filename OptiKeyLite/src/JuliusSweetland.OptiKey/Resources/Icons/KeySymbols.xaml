@@ -102,4 +102,33 @@
     <BitmapImage x:Key="ClockIcon" UriSource="/Resources/Icons/SVG Source Files/clock.png" />
     <BitmapImage x:Key="TemperatureIcon" UriSource="/Resources/Icons/SVG Source Files/temperature.png" />
     <BitmapImage x:Key="GreetingIcon" UriSource="/Resources/Icons/SVG Source Files/greeting.png" />
+    
+    <BitmapImage x:Key="AppleIcon" UriSource="/Resources/Icons/SVG Food Icons/apple.png" />
+    <BitmapImage x:Key="BaconIcon" UriSource="/Resources/Icons/SVG Food Icons/bacon.png" />
+    <BitmapImage x:Key="Banana2Icon" UriSource="/Resources/Icons/SVG Food Icons/banana.png" />
+    <BitmapImage x:Key="BiscuitIcon" UriSource="/Resources/Icons/SVG Food Icons/biscuit.png" />
+    <BitmapImage x:Key="BreadIcon" UriSource="/Resources/Icons/SVG Food Icons/bread.png" />
+    <BitmapImage x:Key="CarrotIcon" UriSource="/Resources/Icons/SVG Food Icons/carrot.png" />
+    <BitmapImage x:Key="CerealIcon" UriSource="/Resources/Icons/SVG Food Icons/cereal.png" />
+    <BitmapImage x:Key="CheeseIcon" UriSource="/Resources/Icons/SVG Food Icons/cheese.png" />
+    <BitmapImage x:Key="ChickenIcon" UriSource="/Resources/Icons/SVG Food Icons/chicken.png" />
+    <BitmapImage x:Key="ChocolateIcon" UriSource="/Resources/Icons/SVG Food Icons/chocolate.png" />
+    <BitmapImage x:Key="CoffeeIcon" UriSource="/Resources/Icons/SVG Food Icons/coffee.png" />
+    <BitmapImage x:Key="CornIcon" UriSource="/Resources/Icons/SVG Food Icons/corn.png" />
+    <BitmapImage x:Key="EggsIcon" UriSource="/Resources/Icons/SVG Food Icons/eggs.png" />
+    <BitmapImage x:Key="FishIcon" UriSource="/Resources/Icons/SVG Food Icons/fish.png" />
+    <BitmapImage x:Key="BurgerIcon" UriSource="/Resources/Icons/SVG Food Icons/hamburger.png" />
+    <BitmapImage x:Key="IceCreamIcon" UriSource="/Resources/Icons/SVG Food Icons/ice-cream.png" />
+    <BitmapImage x:Key="JuiceIcon" UriSource="/Resources/Icons/SVG Food Icons/juice.png" />
+    <BitmapImage x:Key="MilkIcon" UriSource="/Resources/Icons/SVG Food Icons/milk.png" />
+    <BitmapImage x:Key="NachosIcon" UriSource="/Resources/Icons/SVG Food Icons/nachos.png" />
+    <BitmapImage x:Key="PieIcon" UriSource="/Resources/Icons/SVG Food Icons/pie.png" />
+    <BitmapImage x:Key="PorridgeIcon" UriSource="/Resources/Icons/SVG Food Icons/porridge.png" />
+    <BitmapImage x:Key="SausageIcon" UriSource="/Resources/Icons/SVG Food Icons/sausage.png" />
+    <BitmapImage x:Key="SpaghettiIcon" UriSource="/Resources/Icons/SVG Food Icons/spaghetti.png" />
+    <BitmapImage x:Key="SteakIcon" UriSource="/Resources/Icons/SVG Food Icons/steak.png" />
+    <BitmapImage x:Key="ToastIcon" UriSource="/Resources/Icons/SVG Food Icons/toast.png" />
+    <BitmapImage x:Key="WaterIcon" UriSource="/Resources/Icons/SVG Food Icons/water.png" />
+    <BitmapImage x:Key="WrapIcon" UriSource="/Resources/Icons/SVG Food Icons/wrap.png" />
+    
 </ResourceDictionary>

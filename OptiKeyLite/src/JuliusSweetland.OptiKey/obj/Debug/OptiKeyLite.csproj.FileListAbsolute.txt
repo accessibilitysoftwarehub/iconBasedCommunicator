@@ -752,3 +752,295 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\nl\OptiKey.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.exe
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\bass.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\FrenchFrance.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\GermanGermany.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\RussianRussia.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DanishDenmark.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DutchBelgium.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DutchNetherlands.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\CatalanSpain.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\SpanishSpain.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\banana.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\basketball.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\bird.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\cancel.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\checked.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\clock.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\food.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\greeting.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\keyboard.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\network.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\places.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\emoticons.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\happy.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\house.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\music.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\question.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\shirt.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\temperature.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\videogame.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click5.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click6.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Falling1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Falling2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll5.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll6.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Rising1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Rising2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone2.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone4.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone3.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click1.wav
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishUK.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishUS.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishCanada.dic
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\LICENSE.txt
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\nbug.config
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\CREDITS.txt
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.config
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.exe.config
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.exe
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru-RU\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\de-DE\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\fr-FR\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\nl\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Bass.Net.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\EyeXFramework.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MahApps.Metro.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\NBug.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.Wpf.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Core.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\TETControls.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\TETCSharpClient.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\WindowsInput.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Bass.Net.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\EyeXFramework.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MahApps.Metro.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MouseKeyboardActivityMonitor.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\NBug.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.Wpf.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Core.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\WindowsInput.xml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Icons\KeySymbols.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Colours\Android.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Mouse.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\SizeAndPosition.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Menu.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics3.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\Output.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics3.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\Alpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\ConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\Alpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\PhysicalKeys.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols3.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\YesNoQuestion.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\ConversationNumericAndSymbols.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\ConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Alpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\ConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics3.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Alpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\ConversationAlpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics1.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics2.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics3.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Spanish\Alpha.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\MainView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\ManagementView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\OtherView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\DictionaryView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\PointingAndSelectingView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\SoundsView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\VisualsView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\WordsView.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\CrashWindow.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ConfirmationWindow.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ManagementWindow.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\MainWindow.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_Content.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_MarkupCompile.cache
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_MarkupCompile.lref
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Light.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Dark.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Mouse.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\SizeAndPosition.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Menu.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics3.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\Output.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics3.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\Alpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\ConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\Alpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\PhysicalKeys.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols3.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\YesNoQuestion.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\ConversationNumericAndSymbols.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\ConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Alpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\ConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics3.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Alpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\ConversationAlpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics1.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics2.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics3.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Spanish\Alpha.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\MainView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\ManagementView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\OtherView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\DictionaryView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\PointingAndSelectingView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\SoundsView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\VisualsView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\WordsView.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\CrashWindow.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ConfirmationWindow.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ManagementWindow.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\MainWindow.baml
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.g.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.ru-RU.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.de-DE.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.fr-FR.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.nl.resources
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csproj.GenerateResource.Cache
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\ru-RU\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\de-DE\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\fr-FR\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\nl\OptiKey.resources.dll
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.exe
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.pdb
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\apple.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bacon.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\banana.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\biscuit.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\carrot.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cereal.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cheese.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chicken.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chocolate.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\coffee.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\corn.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\eggs.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\fish.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\hamburger.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\ice-cream.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\juice.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\milk.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\nachos.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\pie.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\porridge.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\sausage.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\spaghetti.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\steak.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\toast.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\water.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\wrap.png
+C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bread.png

@@ -60,60 +60,164 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I would like to eat a BANANA"/>
         <controls:Key Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource AppleIcon}"
+                      Text="Apple"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Apple"
                       />
         <controls:Key Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BaconIcon}"
+                      Text="Bacon"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Bacon"
                       />
         <controls:Key Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BiscuitIcon}"
+                      Text="Biscuit"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Biscuit"
                       />
         <controls:Key Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BreadIcon}"
+                      Text="Bread"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Bread"
                       />
         <controls:Key Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CarrotIcon}"
+                      Text="Carrot"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Carrot"
                       />
         <controls:Key Grid.Row="1" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CerealIcon}"
+                      Text="Cereal"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Cereal"
                       />
         <controls:Key Grid.Row="1" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CheeseIcon}"
+                      Text="Cheese"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Cheese"
                       />
         <controls:Key Grid.Row="1" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ChickenIcon}"
+                      Text="Chicken"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Chicken"
                       />
         <controls:Key Grid.Row="1" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ChocolateIcon}"
+                      Text="Chocolate"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Chocolate"
                       />
 
         <!-- second row -->
         <controls:Key Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CoffeeIcon}"
+                      Text="Coffee"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Coffee"
                       />
         <controls:Key Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CornIcon}"
+                      Text="Corn"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Corn"
                       />
         <controls:Key Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource EggsIcon}"
+                      Text="Eggs"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Eggs"
                       />
         <controls:Key Grid.Row="2" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource FishIcon}"
+                      Text="Fish"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Fish"
                       />
         <controls:Key Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BurgerIcon}"
+                      Text="Burger"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Burger"
                       />
         <controls:Key Grid.Row="2" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource IceCreamIcon}"
+                      Text="Ice-Cream"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Ice-Cream"
                       />
         <controls:Key Grid.Row="2" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource JuiceIcon}"
+                      Text="Juice"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Juice"
                       />
         <controls:Key Grid.Row="2" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource MilkIcon}"
+                      Text="Milk"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Milk"
                       />
         <controls:Key Grid.Row="2" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource NachosIcon}"
+                      Text="Nachos"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Nachos"
                       />
         <controls:Key Grid.Row="2" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource PieIcon}"
+                      Text="Pie"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Pie"
                       />
 
         <!-- third row -->
         <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource PorridgeIcon}"
+                      Text="Porridge"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Porridge"
                       />
         <controls:Key Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SausageIcon}"
+                      Text="Sausage"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Sausage"
                       />
         <controls:Key Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SpaghettiIcon}"
+                      Text="Spaghetti"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Spaghetti"
                       />
         <controls:Key Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SteakIcon}"
+                      Text="Steak"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Steak"
                       />
         <controls:Key Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ToastIcon}"
+                      Text="Toast"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Toast"
                       />
         <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource WaterIcon}"
+                      Text="Water"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Water"
                       />
         <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource WrapIcon}"
+                      Text="Wrap"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Wrap"
                       />
         <controls:Key Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="2"
                       />
