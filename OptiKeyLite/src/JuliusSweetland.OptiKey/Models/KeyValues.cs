@@ -151,7 +151,10 @@ namespace OptiKey.Models
         public static readonly KeyValue Suggestion5Key = new KeyValue(FunctionKeys.Suggestion5);
         public static readonly KeyValue Suggestion6Key = new KeyValue(FunctionKeys.Suggestion6);
         public static readonly KeyValue YesQuestionResultKey = new KeyValue(FunctionKeys.YesQuestionResult);
-        
+        public static readonly KeyValue emotionKeyboardKeyboardKey = new KeyValue(FunctionKeys.emotionKeyboardKeyboard);
+        public static readonly KeyValue PeopleKeyboardKey = new KeyValue(FunctionKeys.PeopleKeyboard);
+        public static readonly KeyValue SportKeyboardKey = new KeyValue(FunctionKeys.SportKeyboard);
+
         private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;
 
         static KeyValues()

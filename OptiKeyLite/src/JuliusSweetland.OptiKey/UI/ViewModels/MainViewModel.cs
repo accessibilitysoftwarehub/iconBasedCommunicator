@@ -380,6 +380,22 @@ namespace OptiKey.UI.ViewModels
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
                         break;
+
+                    case Enums.Keyboards.emotionKeyboardKeyboard:
+                        Keyboard = new emotionKeyboard();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
+                    case Enums.Keyboards.PeopleKeyboard:
+                        Keyboard = new People();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
+                    case Enums.Keyboards.SportKeyboard:
+                        Keyboard = new Sport();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
                 }
             }
         }

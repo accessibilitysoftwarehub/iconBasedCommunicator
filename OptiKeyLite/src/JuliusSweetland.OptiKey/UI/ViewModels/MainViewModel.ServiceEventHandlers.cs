@@ -1134,7 +1134,22 @@ namespace OptiKey.UI.ViewModels
                         Log.Info("Changing keyboard to PhysicalKeys.");
                         Keyboard = new PhysicalKeys();
                         break;
-                        
+
+                    case FunctionKeys.emotionKeyboardKeyboard:
+                        Log.Info("Changing keyboard to Emotion.");
+                        Keyboard = new emotionKeyboard();
+                        break;
+
+                    case FunctionKeys.PeopleKeyboard:
+                        Log.Info("Changing keyboard to People.");
+                        Keyboard = new People();
+                        break;
+
+                    case FunctionKeys.SportKeyboard:
+                        Log.Info("Changing keyboard to Sport.");
+                        Keyboard = new Sport();
+                        break;
+
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 
