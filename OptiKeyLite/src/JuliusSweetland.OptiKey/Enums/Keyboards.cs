@@ -18,6 +18,9 @@
         NumericAndSymbols2,
         NumericAndSymbols3,
         PhysicalKeys,
-        SizeAndPosition
+        SizeAndPosition,
+        emotionKeyboardKeyboard,
+        PeopleKeyboard,
+        SportKeyboard
     }
 }

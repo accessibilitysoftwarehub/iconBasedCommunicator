@@ -315,6 +315,18 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.YesNoQuestion { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.emotionKeyboard)
+            {
+                newContent = new CommonViews.emotionKeyboard { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.People)
+            {
+                newContent = new CommonViews.People { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Sport)
+            {
+                newContent = new CommonViews.Sport { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

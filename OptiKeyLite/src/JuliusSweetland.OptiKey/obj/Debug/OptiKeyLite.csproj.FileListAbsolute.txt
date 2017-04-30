@@ -1044,3 +1044,339 @@ C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweet
 C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\water.png
 C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\wrap.png
 C:\Users\Nick\Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bread.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\bass.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\FrenchFrance.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\GermanGermany.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\RussianRussia.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DanishDenmark.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DutchBelgium.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\DutchNetherlands.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\CatalanSpain.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\SpanishSpain.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\apple.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bacon.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\banana.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\biscuit.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bread.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\carrot.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cereal.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cheese.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chicken.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chocolate.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\coffee.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\corn.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\eggs.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\fish.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\hamburger.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\ice-cream.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\juice.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\milk.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\nachos.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\pie.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\porridge.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\sausage.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\spaghetti.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\steak.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\toast.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\water.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\wrap.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\banana.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\basketball.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\bird.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\cancel.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\checked.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\clock.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\food.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\greeting.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\keyboard.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\network.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\places.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\emoticons.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\happy.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\house.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\music.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\question.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\shirt.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\temperature.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Source Files\videogame.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click5.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click6.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Falling1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Falling2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDown4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll5.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll6.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseUp4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Rising1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Rising2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone2.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone4.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Tone3.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseClick1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseDoubleClick1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\MouseScroll1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Sounds\Click1.wav
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishUK.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishUS.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\EnglishCanada.dic
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\LICENSE.txt
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\nbug.config
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\CREDITS.txt
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.config
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.exe.config
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.exe
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\OptiKey.pdb
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru-RU\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\de-DE\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\fr-FR\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\nl\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Bass.Net.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\EyeXFramework.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MahApps.Metro.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MouseKeyboardActivityMonitor.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\NBug.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Newtonsoft.Json.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.Wpf.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Core.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Interfaces.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Linq.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Windows.Threading.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Windows.Interactivity.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\TETControls.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\TETCSharpClient.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.Net20.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\WindowsInput.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Bass.Net.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\EyeXFramework.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\log4net.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MahApps.Metro.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\MouseKeyboardActivityMonitor.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\NBug.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Newtonsoft.Json.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.pdb
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.pdb
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Octokit.Reactive.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Prism.Wpf.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Core.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Interfaces.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Linq.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\System.Reactive.Windows.Threading.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.Net20.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\WindowsInput.xml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Icons\KeySymbols.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Colours\Android.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Mouse.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\SizeAndPosition.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Menu.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics3.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\Output.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics3.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\emotionKeyboard.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\ConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\PhysicalKeys.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols3.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\YesNoQuestion.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\ConversationNumericAndSymbols.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\ConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\ConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics3.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\ConversationAlpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics1.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics2.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics3.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Spanish\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\MainView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\ManagementView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\OtherView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\DictionaryView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\PointingAndSelectingView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\SoundsView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\VisualsView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\WordsView.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\CrashWindow.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ConfirmationWindow.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ManagementWindow.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\MainWindow.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_Content.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_MarkupCompile.cache
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey_MarkupCompile.lref
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Light.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Android_Dark.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\IconOutput.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Food.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\KeyboardTemplate.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Language.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Minimised.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Mouse.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\SizeAndPosition.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Menu.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics3.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Diacritics1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Controls\Output.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\BelgiumConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\NetherlandsConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Dutch\Diacritics3.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\emotionKeyboard.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Russian\ConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Currencies1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\PhysicalKeys.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols3.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\YesNoQuestion.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\NumericAndSymbols2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\ConversationNumericAndSymbols.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\English\ConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\ConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\French\Diacritics3.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\ConversationAlpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics1.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics2.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\German\Diacritics3.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Spanish\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\MainView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\ManagementView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\OtherView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\DictionaryView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\PointingAndSelectingView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\SoundsView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\VisualsView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Management\WordsView.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\CrashWindow.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ConfirmationWindow.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\ManagementWindow.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Windows\MainWindow.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.g.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.ru-RU.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.de-DE.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.fr-FR.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.Properties.Resources.nl.resources
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csproj.GenerateResource.Cache
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\ru-RU\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\de-DE\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\fr-FR\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\nl\OptiKey.resources.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.exe
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKey.pdb
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\angryEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\annoyedEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\boredEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\confusedEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\disappointedEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\excitedEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\happyEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\loveEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sadEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\scaredEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sickEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\soreEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\surprisedEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\thinkingEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\tiredEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\hotEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sillyEmotion.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\brotherPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\catPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\dadPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\doctorPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\dogPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\firemanPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\mumPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\policePerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\santaPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\sisterPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\teacherPerson.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\badmingtonSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\baseballSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\basketballSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\cricketSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\golfSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\hockeySport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\rugbySport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\soccerSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\swimmingSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\tennisSport.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\People.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\People.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.baml
