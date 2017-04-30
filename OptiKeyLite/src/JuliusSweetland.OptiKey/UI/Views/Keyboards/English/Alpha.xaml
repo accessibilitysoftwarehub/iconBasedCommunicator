@@ -98,12 +98,12 @@
                       IconImage="{StaticResource PeopleIcon}"
                       Text="People"
                       SharedSizeGroup="KeyWithSymbol"
-                      />
+                      Value="{x:Static models:KeyValues.PeopleKeyboardKey}"/>
         <controls:Key Grid.Row="1" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource BasketballIcon}"
                       Text="Sports"
                       SharedSizeGroup="KeyWithSymbol"
-                      />
+                      Value="{x:Static models:KeyValues.SportKeyboardKey}"/>
         <controls:Key Grid.Row="1" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource ShirtIcon}"
                       Text="Clothes"
@@ -120,7 +120,7 @@
                       IconImage="{StaticResource EmotionIcon}"
                       Text="Emotions"
                       SharedSizeGroup="KeyWithSymbol"
-                        />
+                      Value="{x:Static models:KeyValues.emotionKeyboardKeyboardKey}"/>
         <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource MusicIcon}"
                       Text="Music"
