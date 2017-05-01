@@ -1611,4 +1611,14 @@ Nederlands (België)</value>
     <value>Dutch (Netherlands)
 Nederlands (Nederland)</value>
   </data>
+  <data name="ICONS_ICONIC" xml:space="preserve">
+    <value>Icons (Cognitive and Motor Impairment)</value>
+  </data>
+  <data name="SETTINGS" xml:space="preserve">
+    <value>Settings:</value>
+  </data>
+  <data name="SPANISH_SPAIN" xml:space="preserve">
+    <value>Spanish (Spain) / 
+Español (España)</value>
+  </data>
 </root>

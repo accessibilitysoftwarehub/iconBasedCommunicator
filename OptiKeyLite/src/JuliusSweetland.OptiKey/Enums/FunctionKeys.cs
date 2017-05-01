@@ -56,6 +56,7 @@
         FrenchFrance,
         GermanGermany,
         Home,
+        IconsIconic,
         IncreaseOpacity,
         Insert,
         LanguageKeyboard,
