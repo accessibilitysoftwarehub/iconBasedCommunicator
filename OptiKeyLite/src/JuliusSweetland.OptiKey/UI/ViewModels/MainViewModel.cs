@@ -291,30 +291,35 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Currencies1();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Currencies2:
                         Keyboard = new Currencies2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Diacritics1:
                         Keyboard = new Diacritics1();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Diacritics2:
                         Keyboard = new Diacritics2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Diacritics3:
                         Keyboard = new Diacritics3();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Food:
@@ -328,6 +333,7 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Menu(() => Keyboard = new Alpha());
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Minimised:
@@ -357,30 +363,35 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new NumericAndSymbols1();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.NumericAndSymbols2:
                         Keyboard = new NumericAndSymbols2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.NumericAndSymbols3:
                         Keyboard = new NumericAndSymbols3();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.PhysicalKeys:
                         Keyboard = new PhysicalKeys();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.SizeAndPosition:
                         Keyboard = new SizeAndPosition(() => Keyboard = new Menu(() => Keyboard = new Alpha()));
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.emotionKeyboardKeyboard:
