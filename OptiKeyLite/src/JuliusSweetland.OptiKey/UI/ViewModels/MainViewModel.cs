@@ -264,6 +264,7 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Alpha();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.ConversationAlpha:
@@ -320,6 +321,7 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Food();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Menu:
@@ -379,6 +381,25 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new SizeAndPosition(() => Keyboard = new Menu(() => Keyboard = new Alpha()));
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
+                        break;
+
+                    case Enums.Keyboards.emotionKeyboardKeyboard:
+                        Keyboard = new emotionKeyboard();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.PeopleKeyboard:
+                        Keyboard = new People();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.SportKeyboard:
+                        Keyboard = new Sport();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
                         break;
                 }
             }

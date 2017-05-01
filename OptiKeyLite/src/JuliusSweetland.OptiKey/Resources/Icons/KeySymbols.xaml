@@ -131,4 +131,46 @@
     <BitmapImage x:Key="WaterIcon" UriSource="/Resources/Icons/SVG Food Icons/water.png" />
     <BitmapImage x:Key="WrapIcon" UriSource="/Resources/Icons/SVG Food Icons/wrap.png" />
     
+    <BitmapImage x:Key="AngryEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/angryEmotion.png"/>
+    <BitmapImage x:Key="AnnoyedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/annoyedEmotion.png"/>
+    <BitmapImage x:Key="BoredEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/boredEmotion.png"/>
+    <BitmapImage x:Key="ConfusedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/confusedEmotion.png"/>
+    <BitmapImage x:Key="DisappointedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/disappointedEmotion.png"/>
+    <BitmapImage x:Key="ExcitedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/excitedEmotion.png"/>
+    <BitmapImage x:Key="HappyEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/happyEmotion.png"/>
+    <BitmapImage x:Key="HotEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/hotEmotion.png"/>
+    <BitmapImage x:Key="LoveEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/loveEmotion.png"/>
+    <BitmapImage x:Key="SadEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/sadEmotion.png"/>
+    <BitmapImage x:Key="ScaredEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/scaredEmotion.png"/>
+    <BitmapImage x:Key="SickEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/sickEmotion.png"/>
+    <BitmapImage x:Key="SillyEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/sillyEmotion.png"/>
+    <BitmapImage x:Key="SoreEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/soreEmotion.png"/>
+    <BitmapImage x:Key="SurprisedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/surprisedEmotion.png"/>
+    <BitmapImage x:Key="ThinkingEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/thinkingEmotion.png"/>
+    <BitmapImage x:Key="TiredEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/tiredEmotion.png"/>
+
+    <BitmapImage x:Key="BrotherPerson" UriSource="/Resources/Icons/SVG People Icons/brotherPerson.png"/>
+    <BitmapImage x:Key="CatPerson" UriSource="/Resources/Icons/SVG People Icons/catPerson.png"/>
+    <BitmapImage x:Key="DadPerson" UriSource="/Resources/Icons/SVG People Icons/dadPerson.png"/>
+    <BitmapImage x:Key="DoctorPerson" UriSource="/Resources/Icons/SVG People Icons/doctorPerson.png"/>
+    <BitmapImage x:Key="DogPerson" UriSource="/Resources/Icons/SVG People Icons/dogPerson.png"/>
+    <BitmapImage x:Key="FiremanPerson" UriSource="/Resources/Icons/SVG People Icons/firemanPerson.png"/>
+    <BitmapImage x:Key="MumPerson" UriSource="/Resources/Icons/SVG People Icons/mumPerson.png"/>
+    <BitmapImage x:Key="PolicePerson" UriSource="/Resources/Icons/SVG People Icons/policePerson.png"/>
+    <BitmapImage x:Key="SantaPerson" UriSource="/Resources/Icons/SVG People Icons/santaPerson.png"/>
+    <BitmapImage x:Key="SisterPerson" UriSource="/Resources/Icons/SVG People Icons/sisterPerson.png"/>
+    <BitmapImage x:Key="TeacherPerson" UriSource="/Resources/Icons/SVG People Icons/teacherPerson.png"/>
+
+    <BitmapImage x:Key="BadmingtonSport" UriSource="/Resources/Icons/SVG Sport Icons/badmingtonSport.png"/>
+    <BitmapImage x:Key="BaseballSport" UriSource="/Resources/Icons/SVG Sport Icons/baseballSport.png"/>
+    <BitmapImage x:Key="BasketballSport" UriSource="/Resources/Icons/SVG Sport Icons/basketballSport.png"/>
+    <BitmapImage x:Key="CricketSport" UriSource="/Resources/Icons/SVG Sport Icons/cricketSport.png"/>
+    <BitmapImage x:Key="GolfSport" UriSource="/Resources/Icons/SVG Sport Icons/golfSport.png"/>
+    <BitmapImage x:Key="HockeySport" UriSource="/Resources/Icons/SVG Sport Icons/hockeySport.png"/>
+    <BitmapImage x:Key="RugbySport" UriSource="/Resources/Icons/SVG Sport Icons/rugbySport.png"/>
+    <BitmapImage x:Key="SoccerSport" UriSource="/Resources/Icons/SVG Sport Icons/soccerSport.png"/>
+    <BitmapImage x:Key="SwimmingSport" UriSource="/Resources/Icons/SVG Sport Icons/swimmingSport.png"/>
+    <BitmapImage x:Key="TennisSport" UriSource="/Resources/Icons/SVG Sport Icons/tennisSport.png"/>
+
+
 </ResourceDictionary>

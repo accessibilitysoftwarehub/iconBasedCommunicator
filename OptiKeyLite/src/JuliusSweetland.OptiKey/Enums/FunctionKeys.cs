@@ -56,6 +56,7 @@
         FrenchFrance,
         GermanGermany,
         Home,
+        IconsIconic,
         IncreaseOpacity,
         Insert,
         LanguageKeyboard,
@@ -144,6 +145,9 @@
         Suggestion4,
         Suggestion5,
         Suggestion6,
-        YesQuestionResult
+        YesQuestionResult,
+        emotionKeyboardKeyboard,
+        PeopleKeyboard,
+        SportKeyboard
     }
 }

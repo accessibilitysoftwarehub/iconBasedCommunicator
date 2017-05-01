@@ -349,6 +349,7 @@
     <Compile Include="UI\ViewModels\Keyboards\ConversationAlpha.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\IBackAction.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\Keyboard.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\emotionKeyboard.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Food.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Language.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Minimised.cs" />
@@ -359,9 +360,11 @@
     <Compile Include="UI\ViewModels\Keyboards\Diacritics1.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Currencies2.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Currencies1.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\People.cs" />
     <Compile Include="UI\ViewModels\Keyboards\SizeAndPosition.cs" />
     <Compile Include="UI\ViewModels\Keyboards\PhysicalKeys.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols3.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Sport.cs" />
     <Compile Include="UI\ViewModels\Keyboards\YesNoQuestion.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols2.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols1.cs" />
@@ -391,6 +394,9 @@
     <Compile Include="UI\Views\Keyboards\Common\Mouse.xaml.cs">
       <DependentUpon>Mouse.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\People.xaml.cs">
+      <DependentUpon>People.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Views\Keyboards\Common\SizeAndPosition.xaml.cs">
       <DependentUpon>SizeAndPosition.xaml</DependentUpon>
     </Compile>
@@ -412,6 +418,9 @@
     <Compile Include="UI\Controls\Output.xaml.cs">
       <DependentUpon>Output.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\Sport.xaml.cs">
+      <DependentUpon>Sport.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml.cs">
       <DependentUpon>BelgiumAlpha.xaml</DependentUpon>
     </Compile>
@@ -432,6 +441,12 @@
     </Compile>
     <Compile Include="UI\Views\Keyboards\Dutch\Diacritics3.xaml.cs">
       <DependentUpon>Diacritics3.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\emotionKeyboard.xaml.cs">
+      <DependentUpon>emotionKeyboard.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Iconic\Alpha.xaml.cs">
+      <DependentUpon>Alpha.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Russian\Alpha.xaml.cs">
       <DependentUpon>Alpha.xaml</DependentUpon>
@@ -677,6 +692,57 @@
     <None Include="Resources\Icons\SVG Source Files\MouseScrollToTop.svg" />
     <None Include="Resources\Icons\SVG Source Files\Language.svg" />
     <Resource Include="Resources\Icons\Quit.ico" />
+    <Content Include="Resources\Icons\SVG Emotion Icons\angryEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\annoyedEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\boredEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\confusedEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\disappointedEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\excitedEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\happyEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\hotEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\loveEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\sadEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\scaredEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\sickEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\sillyEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\soreEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\surprisedEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\thinkingEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Emotion Icons\tiredEmotion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Food Icons\apple.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -758,6 +824,39 @@
     <Content Include="Resources\Icons\SVG Food Icons\wrap.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG People Icons\brotherPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\catPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\dadPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\doctorPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\dogPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\firemanPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\mumPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\policePerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\santaPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\sisterPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\teacherPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Source Files\banana.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -813,6 +912,36 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Source Files\videogame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\badmingtonSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\baseballSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\basketballSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\cricketSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\golfSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\hockeySport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\rugbySport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\soccerSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\swimmingSport.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Sport Icons\tennisSport.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Sounds\Click2.wav">
@@ -1030,6 +1159,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="UI\Views\Keyboards\Common\People.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="UI\Views\Keyboards\Common\SizeAndPosition.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1058,6 +1191,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Page Include="UI\Views\Keyboards\Common\Sport.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -1085,6 +1222,14 @@
     <Page Include="UI\Views\Keyboards\Dutch\Diacritics3.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Common\emotionKeyboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Iconic\Alpha.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="UI\Views\Keyboards\Russian\Alpha.xaml">
       <Generator>MSBuild:Compile</Generator>

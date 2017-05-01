@@ -62,6 +62,7 @@ namespace OptiKey.Models
         public static readonly KeyValue FrenchFranceKey = new KeyValue(FunctionKeys.FrenchFrance);
         public static readonly KeyValue GermanGermanyKey = new KeyValue(FunctionKeys.GermanGermany);
         public static readonly KeyValue HomeKey = new KeyValue(FunctionKeys.Home);
+        public static readonly KeyValue IconsIconicKey = new KeyValue(FunctionKeys.IconsIconic);
         public static readonly KeyValue IncreaseOpacityKey = new KeyValue(FunctionKeys.IncreaseOpacity);
         public static readonly KeyValue InsertKey = new KeyValue(FunctionKeys.Insert);
         public static readonly KeyValue LanguageKeyboardKey = new KeyValue(FunctionKeys.LanguageKeyboard);
@@ -151,7 +152,10 @@ namespace OptiKey.Models
         public static readonly KeyValue Suggestion5Key = new KeyValue(FunctionKeys.Suggestion5);
         public static readonly KeyValue Suggestion6Key = new KeyValue(FunctionKeys.Suggestion6);
         public static readonly KeyValue YesQuestionResultKey = new KeyValue(FunctionKeys.YesQuestionResult);
-        
+        public static readonly KeyValue emotionKeyboardKeyboardKey = new KeyValue(FunctionKeys.emotionKeyboardKeyboard);
+        public static readonly KeyValue PeopleKeyboardKey = new KeyValue(FunctionKeys.PeopleKeyboard);
+        public static readonly KeyValue SportKeyboardKey = new KeyValue(FunctionKeys.SportKeyboard);
+
         private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;
 
         static KeyValues()
@@ -168,6 +172,7 @@ namespace OptiKey.Models
                 { Languages.EnglishCanada, defaultList },
                 { Languages.EnglishUK, defaultList },
                 { Languages.EnglishUS, defaultList },
+                { Languages.IconsIconic, defaultList },
                 { Languages.SpanishSpain, defaultList },
                 { Languages.FrenchFrance, defaultList }, //Could be customised to include àçéèù
                 { Languages.GermanGermany, defaultList }, //Could be customised to include äöüß

@@ -402,7 +402,7 @@ namespace OptiKey.UI.ViewModels
                         break;
 
                     case FunctionKeys.FoodKeyboard:
-                        Log.Info("Changing keyboard to PhysicalKeys.");
+                        Log.Info("Changing keyboard to Food Keyboard.");
                         Keyboard = new Food();
                         break;
 
@@ -419,6 +419,15 @@ namespace OptiKey.UI.ViewModels
                         Log.Info("Changing keyboard language to GermanGermany.");
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.GermanGermany;
+                        InputService.RequestResume();
+                        Log.Info("Changing keyboard to Menu.");
+                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        break;
+
+                    case FunctionKeys.IconsIconic:
+                        Log.Info("Changing keyboard language to Iconic Keyboard.");
+                        InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
+                        Settings.Default.KeyboardAndDictionaryLanguage = Languages.IconsIconic;
                         InputService.RequestResume();
                         Log.Info("Changing keyboard to Menu.");
                         Keyboard = new Menu(() => Keyboard = currentKeyboard);
@@ -1134,7 +1143,22 @@ namespace OptiKey.UI.ViewModels
                         Log.Info("Changing keyboard to PhysicalKeys.");
                         Keyboard = new PhysicalKeys();
                         break;
-                        
+
+                    case FunctionKeys.emotionKeyboardKeyboard:
+                        Log.Info("Changing keyboard to Emotion.");
+                        Keyboard = new emotionKeyboard();
+                        break;
+
+                    case FunctionKeys.PeopleKeyboard:
+                        Log.Info("Changing keyboard to People.");
+                        Keyboard = new People();
+                        break;
+
+                    case FunctionKeys.SportKeyboard:
+                        Log.Info("Changing keyboard to Sport.");
+                        Keyboard = new Sport();
+                        break;
+
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 

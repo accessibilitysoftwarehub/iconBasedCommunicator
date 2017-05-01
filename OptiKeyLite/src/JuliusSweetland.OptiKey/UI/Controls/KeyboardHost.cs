@@ -19,6 +19,7 @@ using DutchViews = OptiKey.UI.Views.Keyboards.Dutch;
 using EnglishViews = OptiKey.UI.Views.Keyboards.English;
 using FrenchViews = OptiKey.UI.Views.Keyboards.French;
 using GermanViews = OptiKey.UI.Views.Keyboards.German;
+using IconicViews = OptiKey.UI.Views.Keyboards.Iconic;
 using RussianViews = OptiKey.UI.Views.Keyboards.Russian;
 using SpanishViews = OptiKey.UI.Views.Keyboards.Spanish;
 using ViewModelKeyboards = OptiKey.UI.ViewModels.Keyboards;
@@ -170,6 +171,9 @@ namespace OptiKey.UI.Controls
                     case Languages.SpanishSpain:
                         newContent = new SpanishViews.Alpha { DataContext = Keyboard };
                         break;
+                    case Languages.IconsIconic:
+                        newContent = new IconicViews.Alpha { DataContext = Keyboard };
+                        break;
                     default:
                         newContent = new EnglishViews.Alpha { DataContext = Keyboard };
                         break;
@@ -190,6 +194,9 @@ namespace OptiKey.UI.Controls
                         break;
                     case Languages.GermanGermany:
                         newContent = new GermanViews.ConversationAlpha { DataContext = Keyboard };
+                        break;
+                    case Languages.IconsIconic:
+                        newContent = new IconicViews.Alpha { DataContext = Keyboard };
                         break;
                     case Languages.RussianRussia:
                         newContent = new RussianViews.ConversationAlpha { DataContext = Keyboard };
@@ -314,6 +321,18 @@ namespace OptiKey.UI.Controls
             else if (Keyboard is ViewModelKeyboards.YesNoQuestion)
             {
                 newContent = new CommonViews.YesNoQuestion { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.emotionKeyboard)
+            {
+                newContent = new CommonViews.emotionKeyboard { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.People)
+            {
+                newContent = new CommonViews.People { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Sport)
+            {
+                newContent = new CommonViews.Sport { DataContext = Keyboard };
             }
 
             Content = newContent;
