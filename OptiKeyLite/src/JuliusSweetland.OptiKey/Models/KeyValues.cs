@@ -62,6 +62,7 @@ namespace OptiKey.Models
         public static readonly KeyValue FrenchFranceKey = new KeyValue(FunctionKeys.FrenchFrance);
         public static readonly KeyValue GermanGermanyKey = new KeyValue(FunctionKeys.GermanGermany);
         public static readonly KeyValue HomeKey = new KeyValue(FunctionKeys.Home);
+        public static readonly KeyValue IconsIconicKey = new KeyValue(FunctionKeys.IconsIconic);
         public static readonly KeyValue IncreaseOpacityKey = new KeyValue(FunctionKeys.IncreaseOpacity);
         public static readonly KeyValue InsertKey = new KeyValue(FunctionKeys.Insert);
         public static readonly KeyValue LanguageKeyboardKey = new KeyValue(FunctionKeys.LanguageKeyboard);
@@ -171,6 +172,7 @@ namespace OptiKey.Models
                 { Languages.EnglishCanada, defaultList },
                 { Languages.EnglishUK, defaultList },
                 { Languages.EnglishUS, defaultList },
+                { Languages.IconsIconic, defaultList },
                 { Languages.SpanishSpain, defaultList },
                 { Languages.FrenchFrance, defaultList }, //Could be customised to include àçéèù
                 { Languages.GermanGermany, defaultList }, //Could be customised to include äöüß

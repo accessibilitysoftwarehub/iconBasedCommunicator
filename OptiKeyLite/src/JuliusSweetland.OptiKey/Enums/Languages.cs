@@ -12,6 +12,7 @@ namespace OptiKey.Enums
         EnglishUS,
 	    FrenchFrance,
         GermanGermany,
+        IconsIconic,
         RussianRussia,
         SpanishSpain
     }
@@ -29,6 +30,7 @@ namespace OptiKey.Enums
                 case Languages.EnglishUS: return Resources.ENGLISH_US;
                 case Languages.FrenchFrance: return Resources.FRENCH_FRANCE;
                 case Languages.GermanGermany: return Resources.GERMAN_GERMANY;
+                case Languages.IconsIconic: return Resources.ICONS_ICONIC;
                 case Languages.RussianRussia: return Resources.RUSSIAN_RUSSIA;
                 case Languages.SpanishSpain: return Resources.SPANISH_SPAIN;
             }
@@ -47,6 +49,7 @@ namespace OptiKey.Enums
                 case Languages.EnglishCanada: return CultureInfo.GetCultureInfo("en-CA");
                 case Languages.FrenchFrance: return CultureInfo.GetCultureInfo("fr-FR");
                 case Languages.GermanGermany: return CultureInfo.GetCultureInfo("de-DE");
+                case Languages.IconsIconic: return CultureInfo.GetCultureInfo("en-US");
                 case Languages.RussianRussia: return CultureInfo.GetCultureInfo("ru-RU");
                 case Languages.SpanishSpain: return CultureInfo.GetCultureInfo("es-ES");
             }

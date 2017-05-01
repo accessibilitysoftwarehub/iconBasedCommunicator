@@ -620,7 +620,6 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
-H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Icons\KeySymbols.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\Resources\Themes\Colours\Android.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\App.baml
@@ -1380,3 +1379,77 @@ D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.
 D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.g.cs
 D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\People.baml
 D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\People.g.cs
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.g.cs
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\emotionKeyboard.g.cs
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Iconic\Alpha.g.cs
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\angryEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\annoyedEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\boredEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\confusedEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\disappointedEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\excitedEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\happyEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\hotEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\loveEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sadEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\scaredEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sickEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\sillyEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\soreEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\surprisedEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\thinkingEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Emotion Icons\tiredEmotion.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\apple.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bacon.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\banana.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\biscuit.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\bread.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\carrot.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cereal.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\cheese.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chicken.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\chocolate.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\coffee.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\corn.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\eggs.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\fish.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\hamburger.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\ice-cream.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\juice.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\milk.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\nachos.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\pie.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\porridge.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\sausage.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\spaghetti.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\steak.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\toast.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\water.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Food Icons\wrap.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\brotherPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\catPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\dadPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\doctorPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\dogPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\firemanPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\mumPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\policePerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\santaPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\sisterPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG People Icons\teacherPerson.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\badmingtonSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\baseballSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\basketballSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\cricketSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\golfSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\hockeySport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\rugbySport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\soccerSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\swimmingSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Sport Icons\tennisSport.png
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\People.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Sport.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\emotionKeyboard.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Iconic\Alpha.baml
+H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache

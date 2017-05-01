@@ -72,6 +72,9 @@
                                           Value="{x:Static models:KeyValues.EnglishCanadaKey}"
                                           />
                             <controls:Key Grid.Row="1" Grid.Column="3"
+                                          Text="{x:Static resx:Resources.ICONS_ICONIC}"
+                                          SharedSizeGroup="KeyWithText"
+                                          Value="{x:Static models:KeyValues.IconsIconicKey}"
                                           />
                             
                             <controls:Key Grid.Row="2" Grid.Column="0"
@@ -109,6 +112,7 @@
                                         <RowDefinition Height="*" />
                                         <RowDefinition Height="*" />
                                         <RowDefinition Height="*" />
+                                        <RowDefinition Height="*" />
                                     </Grid.RowDefinitions>
                                     <Grid.ColumnDefinitions>
                                         <ColumnDefinition Width="*" />
@@ -127,6 +131,7 @@
                                           Text="{x:Static resx:Resources.ENGLISH_CANADA}"
                                           SharedSizeGroup="KeyWithText"
                                           Value="{x:Static models:KeyValues.EnglishCanadaKey}"/>
+                                
 
                                     <controls:Key Grid.Row="1" Grid.Column="0"
                                           Text="{x:Static resx:Resources.ENGLISH_UK}"
@@ -153,6 +158,15 @@
                                           Text="{x:Static resx:Resources.BACK}"
                                           SharedSizeGroup="KeyWithText"
                                           Value="{x:Static models:KeyValues.BackFromKeyboardKey}"/>
+
+                                    <controls:Key Grid.Row="3" Grid.Column="0"
+                                          Text="{x:Static resx:Resources.ICONS_ICONIC}"
+                                          SharedSizeGroup="KeyWithText"
+                                          Value="{x:Static models:KeyValues.IconsIconicKey}"/>
+                                    <controls:Key Grid.Row="3" Grid.Column="1"
+                                        />
+                                    <controls:Key Grid.Row="3" Grid.Column="2"
+                                        />
                                 </Grid>
                             </Setter.Value>
                         </Setter>

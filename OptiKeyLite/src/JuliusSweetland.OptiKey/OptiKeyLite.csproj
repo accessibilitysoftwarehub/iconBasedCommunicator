@@ -445,6 +445,9 @@
     <Compile Include="UI\Views\Keyboards\Common\emotionKeyboard.xaml.cs">
       <DependentUpon>emotionKeyboard.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\Views\Keyboards\Iconic\Alpha.xaml.cs">
+      <DependentUpon>Alpha.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Views\Keyboards\Russian\Alpha.xaml.cs">
       <DependentUpon>Alpha.xaml</DependentUpon>
     </Compile>
@@ -1221,6 +1224,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="UI\Views\Keyboards\Common\emotionKeyboard.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Iconic\Alpha.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

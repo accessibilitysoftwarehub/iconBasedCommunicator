@@ -1468,6 +1468,15 @@ namespace OptiKey.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Icons (Cognitive and Motor Impairment).
+        /// </summary>
+        public static string ICONS_ICONIC {
+            get {
+                return ResourceManager.GetString("ICONS_ICONIC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Incomplete key fixation time to live (ms):.
         /// </summary>
         public static string INCOMPLETE_KEY_FIXATION_TTL_LABEL {
@@ -3554,14 +3563,12 @@ namespace OptiKey.Properties {
                 return ResourceManager.GetString("SELECTION_PROGRESS_INDICATOR_START_SIZE_LABEL", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   Looks up a localized string similar to Settings
+        ///   Looks up a localized string similar to Settings:.
         /// </summary>
-        public static string SETTINGS
-        {
-            get
-            {
+        public static string SETTINGS {
+            get {
                 return ResourceManager.GetString("SETTINGS", resourceCulture);
             }
         }
@@ -3835,15 +3842,13 @@ namespace OptiKey.Properties {
                 return ResourceManager.GetString("SPACE", resourceCulture);
             }
         }
-
+        
         /// <summary>
-        ///   Looks up a localized string similar to Spanish (Spain)
+        ///   Looks up a localized string similar to Spanish (Spain) / 
         ///Español (España).
         /// </summary>
-        public static string SPANISH_SPAIN
-        {
-            get
-            {
+        public static string SPANISH_SPAIN {
+            get {
                 return ResourceManager.GetString("SPANISH_SPAIN", resourceCulture);
             }
         }
