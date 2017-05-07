@@ -93,7 +93,7 @@
                       IconImage="{StaticResource HouseIcon}"
                       Text="Household"
                       SharedSizeGroup="KeyWithSymbol"
-                      />
+                      Value="{x:Static models:KeyValues.HouseholdKeyboardKey}"/>
         <controls:Key Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource PeopleIcon}"
                       Text="People"
@@ -108,7 +108,7 @@
                       IconImage="{StaticResource ShirtIcon}"
                       Text="Clothes"
                       SharedSizeGroup="KeyWithSymbol"
-                      />
+                      Value="{x:Static models:KeyValues.ClothesKeyboardKey}"/>
 
 
         <controls:Key Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
@@ -122,37 +122,31 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.emotionKeyboardKeyboardKey}"/>
         <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource MusicIcon}"
-                      Text="Music"
-                      SharedSizeGroup="KeyWithSymbol"
-                        />
-        <controls:Key Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GameIcon}"
                       Text="Gaming"
                       SharedSizeGroup="KeyWithSymbol"
-                        />
-        <controls:Key Grid.Row="3" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
+                      Value="{x:Static models:KeyValues.entertainmentKeyboardKey}"/>
+        <controls:Key Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource ClockIcon}"
                       Text="Time"
                       SharedSizeGroup="KeyWithSymbol"
-                        />
-
-
-        <controls:Key Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
+                      Value="{x:Static models:KeyValues.timeKeyboardKey}"/>
+        <controls:Key Grid.Row="3" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource TemperatureIcon}"
                       Text="Temperature"
-                      SharedSizeGroup="KeyWithSymbol"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
+                      SharedSizeGroup="KeyWithSymbol"/>
+
+        <controls:Key Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GreetingIcon}"
                       Text="Greetings"
                       SharedSizeGroup="KeyWithSymbol"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
+                      Value="{x:Static models:KeyValues.GesturesKeyboardKey}"/>
+        <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource KeyboardOptionIcon}"
                       Text="Keyboard"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="{x:Static models:KeyValues.EnglishUKKey}"
+                      Value="{x:Static models:KeyValues.EnglishUKKey}"/>
+        <controls:Key Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
         <controls:Key Grid.Row="5" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />

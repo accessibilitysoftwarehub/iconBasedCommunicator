@@ -21,6 +21,11 @@
         SizeAndPosition,
         emotionKeyboardKeyboard,
         PeopleKeyboard,
-        SportKeyboard
+        SportKeyboard,
+        HouseholdKeyboard,
+        ClothesKeyboard,
+        GesturesKeyboard,
+        timeKeyboard,
+        entertainmentKeyboard
     }
 }
