@@ -172,5 +172,85 @@
     <BitmapImage x:Key="SwimmingSport" UriSource="/Resources/Icons/SVG Sport Icons/swimmingSport.png"/>
     <BitmapImage x:Key="TennisSport" UriSource="/Resources/Icons/SVG Sport Icons/tennisSport.png"/>
 
+    <BitmapImage x:Key="AvalancheWeather" UriSource="/Resources/Icons/SVG Weather Icons/avalanche.png"/>
+    <BitmapImage x:Key="ClearWeather" UriSource="/Resources/Icons/SVG Weather Icons/clear.png"/>
+    <BitmapImage x:Key="CloudyWeather" UriSource="/Resources/Icons/SVG Weather Icons/cloudy.png"/>
+    <BitmapImage x:Key="ColdWeather" UriSource="/Resources/Icons/SVG Weather Icons/cold.png"/>
+    <BitmapImage x:Key="EruptionWeather" UriSource="/Resources/Icons/SVG Weather Icons/eruption.png"/>
+    <BitmapImage x:Key="FoggyWeather" UriSource="/Resources/Icons/SVG Weather Icons/foggy.png"/>
+    <BitmapImage x:Key="Forest-FireWeather" UriSource="/Resources/Icons/SVG Weather Icons/forest-fire.png"/>
+    <BitmapImage x:Key="HailWeather" UriSource="/Resources/Icons/SVG Weather Icons/hail.png"/>
+    <BitmapImage x:Key="HotWeather" UriSource="/Resources/Icons/SVG Weather Icons/hot.png"/>
+    <BitmapImage x:Key="LandSlideWeather" UriSource="/Resources/Icons/SVG Weather Icons/landslide.png"/>
+    <BitmapImage x:Key="RainWeather" UriSource="/Resources/Icons/SVG Weather Icons/rain.png"/>
+    <BitmapImage x:Key="SnowingWeather" UriSource="/Resources/Icons/SVG Weather Icons/snowing.png"/>
+    <BitmapImage x:Key="StormWeather" UriSource="/Resources/Icons/SVG Weather Icons/storm.png"/>
+    <BitmapImage x:Key="SunWeather" UriSource="/Resources/Icons/SVG Weather Icons/sun.png"/>
+    <BitmapImage x:Key="ThunderWeather" UriSource="/Resources/Icons/SVG Weather Icons/thunder.png"/>
+    <BitmapImage x:Key="TornadoWeather" UriSource="/Resources/Icons/SVG Weather Icons/tornado.png"/>
+    <BitmapImage x:Key="TsunamiWeather" UriSource="/Resources/Icons/SVG Weather Icons/tsunami.png"/>
+
+    <BitmapImage x:Key="BeachPlace" UriSource="/Resources/Icons/SVG Place Icons/beach.png"/>
+    <BitmapImage x:Key="CountriesPlace" UriSource="/Resources/Icons/SVG Place Icons/countries.png"/>
+    <BitmapImage x:Key="DesertPlace" UriSource="/Resources/Icons/SVG Place Icons/desert.png"/>
+    <BitmapImage x:Key="FarmPlace" UriSource="/Resources/Icons/SVG Place Icons/farm.png"/>
+    <BitmapImage x:Key="GymPlace" UriSource="/Resources/Icons/SVG Place Icons/gym.png"/>
+    <BitmapImage x:Key="HomePlace" UriSource="/Resources/Icons/SVG Place Icons/home.png"/>
+    <BitmapImage x:Key="ParkPlace" UriSource="/Resources/Icons/SVG Place Icons/park.png"/>
+    <BitmapImage x:Key="PoolPlace" UriSource="/Resources/Icons/SVG Place Icons/pool.png"/>
+    <BitmapImage x:Key="SchoolPlace" UriSource="/Resources/Icons/SVG Place Icons/school.png"/>
+    <BitmapImage x:Key="VolcanoPlace" UriSource="/Resources/Icons/SVG Place Icons/volcano.png"/>
+    <BitmapImage x:Key="WorkPlace" UriSource="/Resources/Icons/SVG Place Icons/work.png"/>
+
+    <BitmapImage x:Key="AfghanistanCountry" UriSource="/Resources/Icons/SVG Country Icons/afghanistan.png"/>
+    <BitmapImage x:Key="AlgeriaPlaceCountry" UriSource="/Resources/Icons/SVG Country Icons/algeria.png"/>
+    <BitmapImage x:Key="ArgentinaCountry" UriSource="/Resources/Icons/SVG Country Icons/argentina.png"/>
+    <BitmapImage x:Key="AustraliaCountry" UriSource="/Resources/Icons/SVG Country Icons/australia.png"/>
+    <BitmapImage x:Key="BahamasCountry" UriSource="/Resources/Icons/SVG Country Icons/bahamas.png"/>
+    <BitmapImage x:Key="BelgiumCountry" UriSource="/Resources/Icons/SVG Country Icons/belgium.png"/>
+    <BitmapImage x:Key="BrazilCountry" UriSource="/Resources/Icons/SVG Country Icons/brazil.png"/>
+    <BitmapImage x:Key="CambodiaCountry" UriSource="/Resources/Icons/SVG Country Icons/cambodia.png"/>
+    <BitmapImage x:Key="CanadaCountry" UriSource="/Resources/Icons/SVG Country Icons/canada.png"/>
+    <BitmapImage x:Key="ChileCountry" UriSource="/Resources/Icons/SVG Country Icons/chile.png"/>
+    <BitmapImage x:Key="ChinaCountry" UriSource="/Resources/Icons/SVG Country Icons/china.png"/>
+    <BitmapImage x:Key="DenmarkCountry" UriSource="/Resources/Icons/SVG Country Icons/denmark.png"/>
+    <BitmapImage x:Key="EgyptCountry" UriSource="/Resources/Icons/SVG Country Icons/egypt.png"/>
+    <BitmapImage x:Key="EthiopiaCountry" UriSource="/Resources/Icons/SVG Country Icons/ethiopia.png"/>
+    <BitmapImage x:Key="FijiCountry" UriSource="/Resources/Icons/SVG Country Icons/fiji.png"/>
+    <BitmapImage x:Key="FinlandCountry" UriSource="/Resources/Icons/SVG Country Icons/finland.png"/>
+    <BitmapImage x:Key="FranceCountry" UriSource="/Resources/Icons/SVG Country Icons/france.png"/>
+    <BitmapImage x:Key="GermanyCountry" UriSource="/Resources/Icons/SVG Country Icons/germany.png"/>
+    <BitmapImage x:Key="GreeceCountry" UriSource="/Resources/Icons/SVG Country Icons/greece.png"/>
+    <BitmapImage x:Key="HawaiiCountry" UriSource="/Resources/Icons/SVG Country Icons/hawaii.png"/>
+    <BitmapImage x:Key="Hong-kongCountry" UriSource="/Resources/Icons/SVG Country Icons/hong-kong.png"/>
+    <BitmapImage x:Key="IndiaCountry" UriSource="/Resources/Icons/SVG Country Icons/india.png"/>
+    <BitmapImage x:Key="IraqCountry" UriSource="/Resources/Icons/SVG Country Icons/iraq.png"/>
+    <BitmapImage x:Key="IrelandCountry" UriSource="/Resources/Icons/SVG Country Icons/ireland.png"/>
+    <BitmapImage x:Key="ItalyCountry" UriSource="/Resources/Icons/SVG Country Icons/italy.png"/>
+    <BitmapImage x:Key="JamaicaCountry" UriSource="/Resources/Icons/SVG Country Icons/jamaica.png"/>
+    <BitmapImage x:Key="JapanCountry" UriSource="/Resources/Icons/SVG Country Icons/japan.png"/>
+    <BitmapImage x:Key="MalaysiaCountry" UriSource="/Resources/Icons/SVG Country Icons/malaysia.png"/>
+    <BitmapImage x:Key="MexicoCountry" UriSource="/Resources/Icons/SVG Country Icons/mexico.png"/>
+    <BitmapImage x:Key="MoroccoCountry" UriSource="/Resources/Icons/SVG Country Icons/morocco.png"/>
+    <BitmapImage x:Key="New-zealandCountry" UriSource="/Resources/Icons/SVG Country Icons/new-zealand.png"/>
+    <BitmapImage x:Key="North-koreaCountry" UriSource="/Resources/Icons/SVG Country Icons/north-korea.png"/>
+    <BitmapImage x:Key="PakistanCountry" UriSource="/Resources/Icons/SVG Country Icons/pakistan.png"/>
+    <BitmapImage x:Key="PhilippinesCountry" UriSource="/Resources/Icons/SVG Country Icons/philippines.png"/>
+    <BitmapImage x:Key="RussiaCountry" UriSource="/Resources/Icons/SVG Country Icons/russia.png"/>
+    <BitmapImage x:Key="Saudi-arabiaCountry" UriSource="/Resources/Icons/SVG Country Icons/saudi-arabia.png"/>
+    <BitmapImage x:Key="ScotlandCountry" UriSource="/Resources/Icons/SVG Country Icons/scotland.png"/>
+    <BitmapImage x:Key="SingaporeCountry" UriSource="/Resources/Icons/SVG Country Icons/singapore.png"/>
+    <BitmapImage x:Key="South-africaCountry" UriSource="/Resources/Icons/SVG Country Icons/south-africa.png"/>
+    <BitmapImage x:Key="South-koreaCountry" UriSource="/Resources/Icons/SVG Country Icons/south-korea.png"/>
+    <BitmapImage x:Key="SpainCountry" UriSource="/Resources/Icons/SVG Country Icons/spain.png"/>
+    <BitmapImage x:Key="SwedenCountry" UriSource="/Resources/Icons/SVG Country Icons/sweden.png"/>
+    <BitmapImage x:Key="SwitzerlandCountry" UriSource="/Resources/Icons/SVG Country Icons/switzerland.png"/>
+    <BitmapImage x:Key="ThailandCountry" UriSource="/Resources/Icons/SVG Country Icons/thailand.png"/>
+    <BitmapImage x:Key="United-kingdomCountry" UriSource="/Resources/Icons/SVG Country Icons/united-kingdom.png"/>
+    <BitmapImage x:Key="United-states-of-americaCountry" UriSource="/Resources/Icons/SVG Country Icons/united-states-of-america.png"/>
+    <BitmapImage x:Key="VietnamCountry" UriSource="/Resources/Icons/SVG Country Icons/vietnam.png"/>
+    <BitmapImage x:Key="WalesCountry" UriSource="/Resources/Icons/SVG Country Icons/wales.png"/>
+
+
 
 </ResourceDictionary>

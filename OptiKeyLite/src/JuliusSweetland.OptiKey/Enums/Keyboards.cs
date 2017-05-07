@@ -21,6 +21,9 @@
         SizeAndPosition,
         emotionKeyboardKeyboard,
         PeopleKeyboard,
-        SportKeyboard
+        SportKeyboard,
+        CountriesKeyboard,
+        PlacesKeyboard,
+        WeatherKeyboard
     }
 }

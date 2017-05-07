@@ -1159,6 +1159,21 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Sport();
                         break;
 
+                    case FunctionKeys.CountriesKeyboard:
+                        Log.Info("Changing keyboard to Countries.");
+                        Keyboard = new Countries();
+                        break;
+
+                    case FunctionKeys.PlacesKeyboard:
+                        Log.Info("Changing keyboard to Places.");
+                        Keyboard = new Places();
+                        break;
+
+                    case FunctionKeys.WeatherKeyboard:
+                        Log.Info("Changing keyboard to Weather.");
+                        Keyboard = new Weather();
+                        break;
+
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 
