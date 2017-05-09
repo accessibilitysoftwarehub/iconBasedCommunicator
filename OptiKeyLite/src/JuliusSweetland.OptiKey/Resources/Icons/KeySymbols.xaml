@@ -250,7 +250,21 @@
     <BitmapImage x:Key="United-states-of-americaCountry" UriSource="/Resources/Icons/SVG Country Icons/united-states-of-america.png"/>
     <BitmapImage x:Key="VietnamCountry" UriSource="/Resources/Icons/SVG Country Icons/vietnam.png"/>
     <BitmapImage x:Key="WalesCountry" UriSource="/Resources/Icons/SVG Country Icons/wales.png"/>
-
-
+    
+    <BitmapImage x:Key="AdditionalIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/More.png"/>
+    <BitmapImage x:Key="LessIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Less.png"/>
+    <BitmapImage x:Key="BathIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Bath.png"/>
+    <BitmapImage x:Key="CottonSwabsIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/CottonSwabs.png"/>
+    <BitmapImage x:Key="HairStraightenerIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/HairStraightener.png"/>
+    <BitmapImage x:Key="HandBasinIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/HandBasin.png"/>
+    <BitmapImage x:Key="MirrorIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Mirror.png"/>
+    <BitmapImage x:Key="ShampooIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Shampoo.png"/>
+    <BitmapImage x:Key="ShowerIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Shower.png"/>
+    <BitmapImage x:Key="SoapIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Soap.png"/>
+    <BitmapImage x:Key="SpaIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Spa.png"/>
+    <BitmapImage x:Key="ToiletIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Toilet.png"/>
+    <BitmapImage x:Key="ToiletPaperIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/ToiletPaper.png"/>
+    <BitmapImage x:Key="ToothbrushIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Toothbrush.png"/>
+    <BitmapImage x:Key="WaterTempIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/WaterTemp.png"/>
 
 </ResourceDictionary>
