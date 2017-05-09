@@ -267,4 +267,39 @@
     <BitmapImage x:Key="ToothbrushIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Toothbrush.png"/>
     <BitmapImage x:Key="WaterTempIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/WaterTemp.png"/>
 
+    <BitmapImage x:Key="BedIcon" UriSource="/Resources/Icons/SVG Household Icons/bed.png"/>
+    <BitmapImage x:Key="ChairIcon" UriSource="/Resources/Icons/SVG Household Icons/chair.png"/>
+    <BitmapImage x:Key="CouchIcon" UriSource="/Resources/Icons/SVG Household Icons/couch.png"/>
+    <BitmapImage x:Key="DoorIcon" UriSource="/Resources/Icons/SVG Household Icons/door.png"/>
+    <BitmapImage x:Key="KnifeAndForkIcon" UriSource="/Resources/Icons/SVG Household Icons/knifeAndFork.png"/>
+    <BitmapImage x:Key="SpoonIcon" UriSource="/Resources/Icons/SVG Household Icons/spoon.png"/>
+
+    <BitmapImage x:Key="DressIcon" UriSource="/Resources/Icons/SVG Clothes Icons/dress.png"/>
+    <BitmapImage x:Key="HatIcon" UriSource="/Resources/Icons/SVG Clothes Icons/hat.png"/>
+    <BitmapImage x:Key="HighHeelsIcon" UriSource="/Resources/Icons/SVG Clothes Icons/highHeels.png"/>
+    <BitmapImage x:Key="JeansIcon" UriSource="/Resources/Icons/SVG Clothes Icons/jeans.png"/>
+    <BitmapImage x:Key="TShirtIcon" UriSource="/Resources/Icons/SVG Clothes Icons/shirt.png"/>
+    <BitmapImage x:Key="ShoesIcon" UriSource="/Resources/Icons/SVG Clothes Icons/shoes.png"/>
+
+    <BitmapImage x:Key="GamingIcon" UriSource="/Resources/Icons/SVG Entertainment Icons/game.png"/>
+    <BitmapImage x:Key="MovieIcon" UriSource="/Resources/Icons/SVG Entertainment Icons/movie.png"/>
+    <BitmapImage x:Key="MusicalIcon" UriSource="/Resources/Icons/SVG Entertainment Icons/music.png"/>
+    <BitmapImage x:Key="RadioIcon" UriSource="/Resources/Icons/SVG Entertainment Icons/radio.png"/>
+    <BitmapImage x:Key="TvIcon" UriSource="/Resources/Icons/SVG Entertainment Icons/tv.png"/>
+
+    <BitmapImage x:Key="BedTimeIcon" UriSource="/Resources/Icons/SVG Time Icons/bedtime.png"/>
+    <BitmapImage x:Key="BreakfastIcon" UriSource="/Resources/Icons/SVG Time Icons/breakfast.png"/>
+    <BitmapImage x:Key="DinnerIcon" UriSource="/Resources/Icons/SVG Time Icons/dinner.png"/>
+    <BitmapImage x:Key="LunchIcon" UriSource="/Resources/Icons/SVG Time Icons/lunch.png"/>
+    <BitmapImage x:Key="MorningIcon" UriSource="/Resources/Icons/SVG Time Icons/morning.png"/>
+    <BitmapImage x:Key="NightIcon" UriSource="/Resources/Icons/SVG Time Icons/night.png"/>
+
+    <BitmapImage x:Key="ClapIcon" UriSource="/Resources/Icons/SVG Gestures Icons/clap.png"/>
+    <BitmapImage x:Key="FrownIcon" UriSource="/Resources/Icons/SVG Gestures Icons/frown.png"/>
+    <BitmapImage x:Key="HandshakeIcon" UriSource="/Resources/Icons/SVG Gestures Icons/handshake.png"/>
+    <BitmapImage x:Key="SmileIcon" UriSource="/Resources/Icons/SVG Gestures Icons/smile.png"/>
+    <BitmapImage x:Key="ThumbDownIcon" UriSource="/Resources/Icons/SVG Gestures Icons/thumbDown.png"/>
+    <BitmapImage x:Key="ThumbUpIcon" UriSource="/Resources/Icons/SVG Gestures Icons/thumbUp.png"/>
+    <BitmapImage x:Key="WaveIcon" UriSource="/Resources/Icons/SVG Gestures Icons/wave.png"/>
+    <BitmapImage x:Key="WinkIcon" UriSource="/Resources/Icons/SVG Gestures Icons/wink.png"/>
 </ResourceDictionary>
