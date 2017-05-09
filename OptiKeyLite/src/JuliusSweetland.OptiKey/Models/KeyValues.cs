@@ -155,15 +155,13 @@ namespace OptiKey.Models
         public static readonly KeyValue emotionKeyboardKeyboardKey = new KeyValue(FunctionKeys.emotionKeyboardKeyboard);
         public static readonly KeyValue PeopleKeyboardKey = new KeyValue(FunctionKeys.PeopleKeyboard);
         public static readonly KeyValue SportKeyboardKey = new KeyValue(FunctionKeys.SportKeyboard);
-        public static readonly KeyValue HouseholdKeyboardKey = new KeyValue(FunctionKeys.HouseholdKeyboard);
-        public static readonly KeyValue ClothesKeyboardKey = new KeyValue(FunctionKeys.ClothesKeyboard);
-        public static readonly KeyValue GesturesKeyboardKey = new KeyValue(FunctionKeys.GesturesKeyboard);
-        public static readonly KeyValue timeKeyboardKey = new KeyValue(FunctionKeys.timeKeyboard);
-        public static readonly KeyValue entertainmentKeyboardKey = new KeyValue(FunctionKeys.entertainmentKeyboard);
         public static readonly KeyValue CountriesKeyboardKey = new KeyValue(FunctionKeys.CountriesKeyboard);
         public static readonly KeyValue PlacesKeyboardKey = new KeyValue(FunctionKeys.PlacesKeyboard);
         public static readonly KeyValue WeatherKeyboardKey = new KeyValue(FunctionKeys.WeatherKeyboard);
-        public static readonly KeyValue BathroomKeyboardKey = new KeyValue(FunctionKeys.BathroomKeyboard);        private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;
+        public static readonly KeyValue BathroomKeyboardKey = new KeyValue(FunctionKeys.BathroomKeyboard);
+
+
+        private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;
 
         static KeyValues()
         {

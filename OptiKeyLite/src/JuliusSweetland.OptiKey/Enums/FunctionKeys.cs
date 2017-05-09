@@ -150,11 +150,8 @@
         YesQuestionResult,
         emotionKeyboardKeyboard,
         PeopleKeyboard,
-        SportKeyboard
+        SportKeyboard,
         WeatherKeyboard,
-        BathroomKeyboard        HouseholdKeyboard,
-        ClothesKeyboard,
-        GesturesKeyboard,
-        timeKeyboard,
-        entertainmentKeyboard    }
+        BathroomKeyboard
+    }
 }

@@ -1159,28 +1159,6 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Sport();
                         break;
 
-                    case FunctionKeys.HouseholdKeyboard:
-                        Log.Info("Changing keyboard to Household.");
-                        Keyboard = new Household();
-                        break;
-
-                    case FunctionKeys.GesturesKeyboard:
-                        Log.Info("Changing keyboard to Gestures.");
-                        Keyboard = new Gestures();
-                        break;
-
-                    case FunctionKeys.ClothesKeyboard:
-                        Log.Info("Changing keyboard to Clothes.");
-                        Keyboard = new Clothes();
-                        break;
-                    case FunctionKeys.timeKeyboard:
-                        Log.Info("Changing keyboard to time.");
-                        Keyboard = new time();
-                        break;
-                    case FunctionKeys.entertainmentKeyboard:
-                        Log.Info("Changing keyboard to entertainment.");
-                        Keyboard = new entertainment();
-                        break;
                     case FunctionKeys.CountriesKeyboard:
                         Log.Info("Changing keyboard to Countries.");
                         Keyboard = new Countries();
@@ -1199,7 +1177,9 @@ namespace OptiKey.UI.ViewModels
                     case FunctionKeys.BathroomKeyboard:
                         Log.Info("Changing keyboard to Bathroom.");
                         Keyboard = new Bathroom();
-                        break;                    case FunctionKeys.PreviousSuggestions:
+                        break;
+
+                    case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 
                         if (suggestionService.SuggestionsPage > 0)
