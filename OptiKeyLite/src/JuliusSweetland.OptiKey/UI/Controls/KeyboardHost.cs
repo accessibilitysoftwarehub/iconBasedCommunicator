@@ -350,6 +350,26 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.Bathroom { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.Household)
+            {
+                newContent = new CommonViews.Household { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Clothes)
+            {
+                newContent = new CommonViews.Clothes { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Entertainment)
+            {
+                newContent = new CommonViews.Entertainment { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Time)
+            {
+                newContent = new CommonViews.Time { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Gestures)
+            {
+                newContent = new CommonViews.Gestures { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

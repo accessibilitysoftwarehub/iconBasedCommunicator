@@ -25,6 +25,11 @@
         CountriesKeyboard,
         PlacesKeyboard,
         WeatherKeyboard,
-        BathroomKeyboard
+        BathroomKeyboard,
+        HouseholdKeyboard,
+        ClothesKeyboard,
+        EntertainmentKeyboard,
+        TimeKeyboard,
+        GesturesKeyboard
     }
 }

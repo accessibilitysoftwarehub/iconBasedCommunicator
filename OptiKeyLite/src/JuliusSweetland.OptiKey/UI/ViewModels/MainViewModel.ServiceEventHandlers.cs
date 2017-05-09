@@ -1179,6 +1179,31 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Bathroom();
                         break;
 
+                    case FunctionKeys.HouseholdKeyboard:
+                        Log.Info("Changing keyboard to Household.");
+                        Keyboard = new Household();
+                        break;
+
+                    case FunctionKeys.ClothesKeyboard:
+                        Log.Info("Changing keyboard to Clothes.");
+                        Keyboard = new Clothes();
+                        break;
+
+                    case FunctionKeys.EntertainmentKeyboard:
+                        Log.Info("Changing keyboard to Entertainment.");
+                        Keyboard = new Entertainment();
+                        break;
+
+                    case FunctionKeys.TimeKeyboard:
+                        Log.Info("Changing keyboard to Time.");
+                        Keyboard = new Time();
+                        break;
+
+                    case FunctionKeys.GesturesKeyboard:
+                        Log.Info("Changing keyboard to Gestures.");
+                        Keyboard = new Gestures();
+                        break;
+
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 
