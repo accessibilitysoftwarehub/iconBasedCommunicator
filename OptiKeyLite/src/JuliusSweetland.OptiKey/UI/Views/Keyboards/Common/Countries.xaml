@@ -1,0 +1,309 @@
+﻿<controls:KeyboardView x:Class="OptiKey.UI.Views.Keyboards.Common.Countries"
+                       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                       xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                       xmlns:controls="clr-namespace:OptiKey.UI.Controls"
+                       xmlns:models="clr-namespace:OptiKey.Models"
+                       xmlns:resx="clr-namespace:OptiKey.Properties"
+                       mc:Ignorable="d" 
+                       d:DesignHeight="300" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="/OptiKey;component/Resources/Icons/KeySymbols.xaml" />
+    </UserControl.Resources>
+
+    <Grid Background="{DynamicResource KeyDefaultBackgroundBrush}"
+          Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
+        </Grid.ColumnDefinitions>
+
+        <controls:IconOutput Grid.Row="0" Grid.Column="0"
+                         Grid.RowSpan="1" Grid.ColumnSpan="24" 
+                         ScratchpadWidthInKeys="8"
+                         NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
+        <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
+
+        <!-- first row -->
+        <controls:Key Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource AfghanistanCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Afghanistan"/>
+        <controls:Key Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource AlgeriaPlaceCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Algeria"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ArgentinaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Argentina"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource AustraliaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Australia"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BahamasCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Bahamas"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BelgiumCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Belgium"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource BrazilCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Brazil"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CambodiaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Cambodia"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource CanadaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Canada"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ChileCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Chile"
+                      />
+
+        <!-- second row -->
+        <controls:Key Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ChinaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="China"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource DenmarkCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Denmark"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource EgyptCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Egypt"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource EthiopiaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Ethiopia"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource FijiCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Fiji"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource FinlandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Finland"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource FranceCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="France"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource GermanyCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Germany"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource GreeceCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Greece"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource HawaiiCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hawaii"
+                      />
+
+        <!-- third row -->
+        <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource Hong-kongCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hong-Kong"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource IndiaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="India"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource IraqCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Iraq"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource IrelandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Ireland"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ItalyCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Italy"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource JamaicaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Jamica"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource JapanCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Japan"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource MalaysiaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Malaysia"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource MexicoCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Mexico"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource MoroccoCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Morocco"
+                      />
+
+        <!-- fourth row -->
+        <controls:Key Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource New-zealandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="New-Zealand"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource North-koreaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="North-Korea"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource PakistanCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Pakistan"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource PhilippinesCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Philippines"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource Saudi-arabiaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Saudi-Arabia"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="10" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ScotlandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Scotland"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SingaporeCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Singapore"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="14" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource South-africaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="South-Africa"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="16" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource South-koreaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="South-Korea"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="18" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SpainCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Spain"
+                      />
+
+        <!-- fifth row -->
+        <controls:Key Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SwedenCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Sweden"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="2" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource SwitzerlandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Switzerland"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource ThailandCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Thailand"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource United-kingdomCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="United-Kingdom"
+                      />
+        <controls:Key Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource United-states-of-americaCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="United-States-of-America"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="2" 
+                      IconImage="{StaticResource VietnamCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Vietnam"
+                      />
+        <controls:Key Grid.Row="5" Grid.Column="12" Grid.ColumnSpan="2"
+                      IconImage="{StaticResource WalesCountry}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Wales"
+                      />
+        <controls:Key Grid.Row="5" Grid.Column="14" Grid.ColumnSpan="2"
+                      />
+        <controls:Key Grid.Row="5" Grid.Column="16" Grid.ColumnSpan="2"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="18" Grid.ColumnSpan="2"
+                      SymbolGeometry="{StaticResource BackIcon}"
+                      Text="{x:Static resx:Resources.BACK}"
+                      SharedSizeGroup="KeyWithSymbolAndText"
+                      Value="{x:Static models:KeyValues.PlacesKeyboardKey}"/>
+    </Grid>
+</controls:KeyboardView>

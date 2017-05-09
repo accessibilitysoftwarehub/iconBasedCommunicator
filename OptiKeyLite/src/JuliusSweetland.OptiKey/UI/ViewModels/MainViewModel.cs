@@ -412,6 +412,29 @@ namespace OptiKey.UI.ViewModels
                         mainWindowManipulationService.ResizeDockToFull();
                         windowManipulationService.Maximise();
                         break;
+                    case Enums.Keyboards.CountriesKeyboard:
+                        Keyboard = new Countries();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.PlacesKeyboard:
+                        Keyboard = new Places();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.WeatherKeyboard:
+                        Keyboard = new Weather();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.BathroomKeyboard:
+                        Keyboard = new Bathroom();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
                 }
             }
         }

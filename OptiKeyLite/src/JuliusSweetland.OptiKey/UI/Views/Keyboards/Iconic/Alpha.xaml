@@ -115,6 +115,7 @@
                       IconImage="{StaticResource PlacesIcon}"
                       Text="Places"
                       SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.PlacesKeyboardKey}"
                         />
         <controls:Key Grid.Row="3" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource EmotionIcon}"
@@ -142,6 +143,7 @@
                       IconImage="{StaticResource TemperatureIcon}"
                       Text="Temperature"
                       SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.WeatherKeyboardKey}"
                         />
         <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GreetingIcon}"
@@ -155,7 +157,11 @@
                       Value="{x:Static models:KeyValues.EnglishUKKey}"
                         />
         <controls:Key Grid.Row="5" Grid.Column="14" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                        />
+                      IconImage="{StaticResource BathIcon}"
+                      Text="Bathroom"  
+                      SharedSizeGroup="KeyWithSymbol"  
+                      Value="{x:Static models:KeyValues.BathroomKeyboardKey}"
+                      />
         <controls:Key Grid.Row="5" Grid.Column="18" Grid.ColumnSpan="4" Grid.RowSpan="2"
                         />
 

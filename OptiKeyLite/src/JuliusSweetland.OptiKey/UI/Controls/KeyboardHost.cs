@@ -334,6 +334,22 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.Sport { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.Countries)
+            {
+                newContent = new CommonViews.Countries { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Places)
+            {
+                newContent = new CommonViews.Places { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Weather)
+            {
+                newContent = new CommonViews.Weather { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Bathroom)
+            {
+                newContent = new CommonViews.Bathroom { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

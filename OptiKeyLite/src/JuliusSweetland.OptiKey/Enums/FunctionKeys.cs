@@ -20,6 +20,7 @@
         CollapseDock,
         ConversationAlphaKeyboard,
         ConversationNumericAndSymbolsKeyboard,
+        CountriesKeyboard,
         Currencies1Keyboard,
         Currencies2Keyboard,
         DecreaseOpacity,
@@ -121,6 +122,7 @@
         PgDn,
         PgUp,
         PhysicalKeysKeyboard,
+        PlacesKeyboard,
         PreviousSuggestions,
         PrintScreen,
         Quit,
@@ -148,6 +150,8 @@
         YesQuestionResult,
         emotionKeyboardKeyboard,
         PeopleKeyboard,
-        SportKeyboard
+        SportKeyboard,
+        WeatherKeyboard,
+        BathroomKeyboard
     }
 }
