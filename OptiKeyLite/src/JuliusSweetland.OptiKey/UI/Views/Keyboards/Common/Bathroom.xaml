@@ -1,0 +1,171 @@
+﻿<controls:KeyboardView x:Class="OptiKey.UI.Views.Keyboards.Common.Bathroom"
+                       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                       xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+                       xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                       xmlns:controls="clr-namespace:OptiKey.UI.Controls"
+                       xmlns:models="clr-namespace:OptiKey.Models"
+                       xmlns:resx="clr-namespace:OptiKey.Properties"
+                       mc:Ignorable="d" 
+                       d:DesignHeight="300" d:DesignWidth="300">
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="/OptiKey;component/Resources/Icons/KeySymbols.xaml" />
+    </UserControl.Resources>
+
+    <Grid Background="{DynamicResource KeyDefaultBackgroundBrush}"
+          Grid.IsSharedSizeScope="True">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
+        </Grid.ColumnDefinitions>
+
+        <controls:IconOutput Grid.Row="0" Grid.Column="0"
+                         Grid.RowSpan="1" Grid.ColumnSpan="24" 
+                         ScratchpadWidthInKeys="8"
+                         NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
+        <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
+
+        <!-- first row -->
+        <controls:Key Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource BathIcon}"
+                      Text="Bath"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want a Bath"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ShowerIcon}"
+                      Text="Shower"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want a Shower"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HandBasinIcon}"
+                      Text="Hand Basin"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I need a sink"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="12" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource MirrorIcon}"
+                      Text="Mirror"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want a Mirror"
+                      />
+        <controls:Key Grid.Row="1" Grid.Column="16" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ShampooIcon}"
+                      Text="Shampoo"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want Shampoo"
+                      />
+
+        <!-- second row -->
+        <controls:Key Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SoapIcon}"
+                      Text="Soap"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want some Soap"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ToiletIcon}"
+                      Text="Toilet"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want the Toilet"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ToiletPaperIcon}"
+                      Text="ToiletPaper"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want some toilet paper"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="12" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ToothbrushIcon}"
+                      Text="ToothBrush"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want a Tooth Brush"
+                      />
+        <controls:Key Grid.Row="2" Grid.Column="16" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WaterTempIcon}"
+                      Text="Water Temperature"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="The Water Temperature is "
+                      />
+
+        <!-- third row -->
+        <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HotWeather}"
+                      Text="Too Hot"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Too Hot"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ColdWeather}"
+                      Text="Too COld"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Too Cold"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource CottonSwabsIcon}"
+                      Text="Cotton Swabs"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I want some cotton swabs"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="3" Grid.Column="16" Grid.ColumnSpan="4"
+                      />
+
+        <!-- fourth row -->
+        <controls:Key Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="12" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="16" Grid.ColumnSpan="4"
+                      />
+
+        <!-- fifth row -->
+        <controls:Key Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="4"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="4"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="4"
+                        />
+        <controls:Key Grid.Row="5" Grid.Column="12" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="5" Grid.Column="16" Grid.ColumnSpan="4"
+                      SymbolGeometry="{StaticResource BackIcon}"
+                      Text="{x:Static resx:Resources.BACK}"
+                      SharedSizeGroup="KeyWithSymbolAndText"
+                      Value="{x:Static models:KeyValues.AlphaKeyboardKey}"/>
+    </Grid>
+</controls:KeyboardView>

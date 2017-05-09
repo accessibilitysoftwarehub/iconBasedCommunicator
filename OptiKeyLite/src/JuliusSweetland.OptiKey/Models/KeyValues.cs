@@ -158,6 +158,7 @@ namespace OptiKey.Models
         public static readonly KeyValue CountriesKeyboardKey = new KeyValue(FunctionKeys.CountriesKeyboard);
         public static readonly KeyValue PlacesKeyboardKey = new KeyValue(FunctionKeys.PlacesKeyboard);
         public static readonly KeyValue WeatherKeyboardKey = new KeyValue(FunctionKeys.WeatherKeyboard);
+        public static readonly KeyValue BathroomKeyboardKey = new KeyValue(FunctionKeys.BathroomKeyboard);
 
 
         private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;

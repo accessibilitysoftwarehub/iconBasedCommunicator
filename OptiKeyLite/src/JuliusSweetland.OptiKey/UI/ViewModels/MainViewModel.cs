@@ -430,6 +430,11 @@ namespace OptiKey.UI.ViewModels
                         mainWindowManipulationService.ResizeDockToFull();
                         windowManipulationService.Maximise();
                         break;
+                    case Enums.Keyboards.BathroomKeyboard:
+                        Keyboard = new Bathroom();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
                 }
             }
         }

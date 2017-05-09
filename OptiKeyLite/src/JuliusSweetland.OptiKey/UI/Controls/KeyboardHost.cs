@@ -346,6 +346,10 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.Weather { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.Bathroom)
+            {
+                newContent = new CommonViews.Bathroom { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

@@ -151,6 +151,7 @@
         emotionKeyboardKeyboard,
         PeopleKeyboard,
         SportKeyboard,
-        WeatherKeyboard
+        WeatherKeyboard,
+        BathroomKeyboard
     }
 }

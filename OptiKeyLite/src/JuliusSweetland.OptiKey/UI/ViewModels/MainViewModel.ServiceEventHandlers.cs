@@ -1174,6 +1174,11 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Weather();
                         break;
 
+                    case FunctionKeys.BathroomKeyboard:
+                        Log.Info("Changing keyboard to Bathroom.");
+                        Keyboard = new Bathroom();
+                        break;
+
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");
 

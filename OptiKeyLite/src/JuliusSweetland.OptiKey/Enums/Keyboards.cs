@@ -24,6 +24,7 @@
         SportKeyboard,
         CountriesKeyboard,
         PlacesKeyboard,
-        WeatherKeyboard
+        WeatherKeyboard,
+        BathroomKeyboard
     }
 }
