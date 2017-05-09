@@ -21,10 +21,13 @@
         SizeAndPosition,
         emotionKeyboardKeyboard,
         PeopleKeyboard,
-        SportKeyboard,
         CountriesKeyboard,
         PlacesKeyboard,
         WeatherKeyboard,
         BathroomKeyboard
-    }
+        HouseholdKeyboard,
+        ClothesKeyboard,
+        GesturesKeyboard,
+        timeKeyboard,
+        entertainmentKeyboard    }
 }

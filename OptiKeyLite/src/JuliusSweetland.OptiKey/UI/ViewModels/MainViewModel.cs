@@ -412,6 +412,36 @@ namespace OptiKey.UI.ViewModels
                         mainWindowManipulationService.ResizeDockToFull();
                         windowManipulationService.Maximise();
                         break;
+                    case Enums.Keyboards.HouseholdKeyboard:
+                        Keyboard = new Household();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.GesturesKeyboard:
+                        Keyboard = new Gestures();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.ClothesKeyboard:
+                        Keyboard = new Clothes();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.timeKeyboard:
+                        Keyboard = new time();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
+                    case Enums.Keyboards.entertainmentKeyboard:
+                        Keyboard = new entertainment();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        windowManipulationService.Maximise();
+                        break;
                     case Enums.Keyboards.CountriesKeyboard:
                         Keyboard = new Countries();
                         windowManipulationService.Restore();
@@ -434,8 +464,7 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Bathroom();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        break;
-                }
+                        break;                }
             }
         }
 

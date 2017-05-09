@@ -172,6 +172,12 @@
     <BitmapImage x:Key="SwimmingSport" UriSource="/Resources/Icons/SVG Sport Icons/swimmingSport.png"/>
     <BitmapImage x:Key="TennisSport" UriSource="/Resources/Icons/SVG Sport Icons/tennisSport.png"/>
 
+    <BitmapImage x:Key="DressClothes" UriSource="/Resources/Icons/SVG Clothes Icons/dress.png"/>
+    <BitmapImage x:Key="HatClothes" UriSource="/Resources/Icons/SVG Clothes Icons/hat.png"/>
+    <BitmapImage x:Key="HighHeelsClothes" UriSource="/Resources/Icons/SVG Clothes Icons/highHeels.png"/>
+    <BitmapImage x:Key="JeansClothes" UriSource="/Resources/Icons/SVG Clothes Icons/jeans.png"/>
+    <BitmapImage x:Key="ShirtClothes" UriSource="/Resources/Icons/SVG Clothes Icons/shirt.png"/>
+    <BitmapImage x:Key="ShoesClothes" UriSource="/Resources/Icons/SVG Clothes Icons/shoes.png"/>
     <BitmapImage x:Key="AvalancheWeather" UriSource="/Resources/Icons/SVG Weather Icons/avalanche.png"/>
     <BitmapImage x:Key="ClearWeather" UriSource="/Resources/Icons/SVG Weather Icons/clear.png"/>
     <BitmapImage x:Key="CloudyWeather" UriSource="/Resources/Icons/SVG Weather Icons/cloudy.png"/>
@@ -190,6 +196,21 @@
     <BitmapImage x:Key="TornadoWeather" UriSource="/Resources/Icons/SVG Weather Icons/tornado.png"/>
     <BitmapImage x:Key="TsunamiWeather" UriSource="/Resources/Icons/SVG Weather Icons/tsunami.png"/>
 
+    <BitmapImage x:Key="ClapGesture" UriSource="/Resources/Icons/SVG Gestures Icons/clap.png"/>
+    <BitmapImage x:Key="FrownGesture" UriSource="/Resources/Icons/SVG Gestures Icons/frown.png"/>
+    <BitmapImage x:Key="HandshakeGesture" UriSource="/Resources/Icons/SVG Gestures Icons/handshake.png"/>
+    <BitmapImage x:Key="SmileGesture" UriSource="/Resources/Icons/SVG Gestures Icons/smile.png"/>
+    <BitmapImage x:Key="ThumbDownGesture" UriSource="/Resources/Icons/SVG Gestures Icons/thumbDown.png"/>
+    <BitmapImage x:Key="ThumbUpGesture" UriSource="/Resources/Icons/SVG Gestures Icons/thumbUp.png"/>
+    <BitmapImage x:Key="WaveGesture" UriSource="/Resources/Icons/SVG Gestures Icons/wave.png"/>
+    <BitmapImage x:Key="WinkGesture" UriSource="/Resources/Icons/SVG Gestures Icons/wink.png"/>
+
+    <BitmapImage x:Key="BedHousehold" UriSource="/Resources/Icons/SVG Household Icons/bed.png"/>
+    <BitmapImage x:Key="ChairHousehold" UriSource="/Resources/Icons/SVG Household Icons/chair.png"/>
+    <BitmapImage x:Key="CouchHousehold" UriSource="/Resources/Icons/SVG Household Icons/couch.png"/>
+    <BitmapImage x:Key="DoorHousehold" UriSource="/Resources/Icons/SVG Household Icons/door.png"/>
+    <BitmapImage x:Key="KnifeAndForkHousehold" UriSource="/Resources/Icons/SVG Household Icons/knifeAndFork.png"/>
+    <BitmapImage x:Key="SpoonHousehold" UriSource="/Resources/Icons/SVG Household Icons/spoon.png"/>
     <BitmapImage x:Key="BeachPlace" UriSource="/Resources/Icons/SVG Place Icons/beach.png"/>
     <BitmapImage x:Key="CountriesPlace" UriSource="/Resources/Icons/SVG Place Icons/countries.png"/>
     <BitmapImage x:Key="DesertPlace" UriSource="/Resources/Icons/SVG Place Icons/desert.png"/>
@@ -265,6 +286,4 @@
     <BitmapImage x:Key="ToiletIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Toilet.png"/>
     <BitmapImage x:Key="ToiletPaperIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/ToiletPaper.png"/>
     <BitmapImage x:Key="ToothbrushIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/Toothbrush.png"/>
-    <BitmapImage x:Key="WaterTempIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/WaterTemp.png"/>
-
-</ResourceDictionary>
+    <BitmapImage x:Key="WaterTempIcon" UriSource="/Resources/Icons/SVG Bathroom Icons/WaterTemp.png"/></ResourceDictionary>

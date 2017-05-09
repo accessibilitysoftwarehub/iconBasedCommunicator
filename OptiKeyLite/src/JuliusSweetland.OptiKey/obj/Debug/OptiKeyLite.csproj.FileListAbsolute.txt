@@ -1453,7 +1453,38 @@ H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.Opt
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\emotionKeyboard.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Iconic\Alpha.baml
 H:\My Documents\GitHub\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\OptiKeyLite.csprojResolveAssemblyReference.cache
-H:\Year3\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\bass.dll
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Clothes.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Gestures.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Household.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Iconic\Alpha.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Clothes.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Gestures.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\Household.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Iconic\Alpha.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\dress.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\hat.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\highHeels.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\jeans.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\shirt.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Clothes Icons\shoes.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\clap.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\frown.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\handshake.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\smile.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\thumbDown.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\thumbUp.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\wave.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Gestures Icons\wink.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\bed.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\chair.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\couch.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\door.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\knifeAndFork.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Resources\Icons\SVG Household Icons\spoon.png
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\entertainment.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\time.g.cs
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\entertainment.baml
+D:\Year3Semester2\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\obj\Debug\UI\Views\Keyboards\Common\time.baml
 H:\Year3\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Tobii.EyeX.Client.dll
 H:\Year3\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\FrenchFrance.dic
 H:\Year3\Project\iconBasedCommunicator\OptiKeyLite\src\JuliusSweetland.OptiKey\bin\Debug\Dictionaries\GermanGermany.dic

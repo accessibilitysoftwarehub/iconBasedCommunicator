@@ -345,14 +345,18 @@
     <Compile Include="UI\ValueConverters\SuggestionsPaged.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\BackActionKeyboard.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\IConversationKeyboard.cs" />
-    <Compile Include="UI\ViewModels\Keyboards\Bathroom.cs" />
     <Compile Include="UI\ViewModels\Keyboards\ConversationNumericAndSymbols.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Clothes.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Bathroom.cs" />
     <Compile Include="UI\ViewModels\Keyboards\ConversationAlpha.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\IBackAction.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Base\Keyboard.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Countries.cs" />
     <Compile Include="UI\ViewModels\Keyboards\emotionKeyboard.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\entertainment.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Food.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Gestures.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Household.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Language.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Minimised.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Mouse.cs" />
@@ -368,8 +372,9 @@
     <Compile Include="UI\ViewModels\Keyboards\PhysicalKeys.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols3.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Sport.cs" />
-    <Compile Include="UI\ViewModels\Keyboards\Weather.cs" />
     <Compile Include="UI\ViewModels\Keyboards\YesNoQuestion.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\time.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Weather.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols2.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols1.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Alpha.cs" />
@@ -383,19 +388,29 @@
     <Compile Include="UI\ViewModels\Management\VisualsViewModel.cs" />
     <Compile Include="UI\ViewModels\Management\OtherViewModel.cs" />
     <Compile Include="UI\ViewModels\Management\WordsViewModel.cs" />
-    <Compile Include="UI\Views\Keyboards\Common\Bathroom.xaml.cs">
+    <Compile Include="UI\Views\Keyboards\Common\Food.xaml.cs">
+    <Compile Include="UI\Views\Keyboards\Common\Clothes.xaml.cs">
+      <DependentUpon>Clothes.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\entertainment.xaml.cs">
+      <DependentUpon>entertainment.xaml</DependentUpon>
+    </Compile>
       <DependentUpon>Bathroom.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Countries.xaml.cs">
       <DependentUpon>Countries.xaml</DependentUpon>
     </Compile>
-    <Compile Include="UI\Views\Keyboards\Common\Food.xaml.cs">
       <DependentUpon>Food.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\Gestures.xaml.cs">
+      <DependentUpon>Gestures.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\Household.xaml.cs">
+      <DependentUpon>Household.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\IconKeyboardTemplate.xaml.cs">
       <DependentUpon>IconKeyboardTemplate.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="UI\Views\Keyboards\Common\KeyboardTemplate.xaml.cs">
+    </Compile>    <Compile Include="UI\Views\Keyboards\Common\KeyboardTemplate.xaml.cs">
       <DependentUpon>KeyboardTemplate.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Language.xaml.cs">
@@ -437,10 +452,12 @@
     <Compile Include="UI\Views\Keyboards\Common\Sport.xaml.cs">
       <DependentUpon>Sport.xaml</DependentUpon>
     </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\time.xaml.cs">
+      <DependentUpon>time.xaml</DependentUpon>
+    </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Weather.xaml.cs">
       <DependentUpon>Weather.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml.cs">
+    </Compile>    <Compile Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml.cs">
       <DependentUpon>BelgiumAlpha.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Dutch\NetherlandsAlpha.xaml.cs">
@@ -584,6 +601,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
     <Compile Include="Static\DiagnosticInfo.cs" />
+    <Resource Include="UiAccess.txt" />
     <EmbeddedResource Include="Properties\Resources.ru-RU.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -711,7 +729,24 @@
     <None Include="Resources\Icons\SVG Source Files\MouseScrollToTop.svg" />
     <None Include="Resources\Icons\SVG Source Files\Language.svg" />
     <Resource Include="Resources\Icons\Quit.ico" />
-    <Content Include="Resources\Icons\SVG Bathroom Icons\Bath.png">
+    <Content Include="Resources\Icons\SVG Clothes Icons\dress.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Clothes Icons\hat.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Clothes Icons\highHeels.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Clothes Icons\jeans.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Clothes Icons\shirt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Clothes Icons\shoes.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Bathroom Icons\CottonSwabs.png">
@@ -899,8 +934,7 @@
     </Content>
     <Content Include="Resources\Icons\SVG Country Icons\wales.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Resources\Icons\SVG Emotion Icons\angryEmotion.png">
+    </Content>    <Content Include="Resources\Icons\SVG Emotion Icons\angryEmotion.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Emotion Icons\annoyedEmotion.png">
@@ -1030,6 +1064,48 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Food Icons\wrap.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\clap.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\frown.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\handshake.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\smile.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\thumbDown.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\thumbUp.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\wave.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Gestures Icons\wink.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\bed.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\chair.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\couch.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\door.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\knifeAndFork.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Household Icons\spoon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG People Icons\brotherPerson.png">
@@ -1431,6 +1507,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="UI\Views\Keyboards\Common\Clothes.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Common\entertainment.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="UI\Views\Keyboards\Common\Bathroom.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -1438,16 +1522,22 @@
     <Page Include="UI\Views\Keyboards\Common\Countries.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
+    </Page>    <Page Include="UI\Views\Keyboards\Common\Food.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UI\Views\Keyboards\Common\Food.xaml">
+    <Page Include="UI\Views\Keyboards\Common\Gestures.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Common\Household.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="UI\Views\Keyboards\Common\IconKeyboardTemplate.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="UI\Views\Keyboards\Common\KeyboardTemplate.xaml">
+    </Page>    <Page Include="UI\Views\Keyboards\Common\KeyboardTemplate.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -1503,11 +1593,14 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UI\Views\Keyboards\Common\Weather.xaml">
+    <Page Include="UI\Views\Keyboards\Common\time.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml">
+    <Page Include="UI\Views\Keyboards\Common\Weather.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>    <Page Include="UI\Views\Keyboards\Dutch\BelgiumAlpha.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
