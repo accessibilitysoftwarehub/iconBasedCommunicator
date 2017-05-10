@@ -312,8 +312,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.DutchBelgium;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.DutchNetherlands:
@@ -321,8 +321,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.DutchNetherlands;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.EnglishCanada:
@@ -330,8 +330,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishCanada;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.EnglishUK:
@@ -339,8 +339,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishUK;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.EnglishUS:
@@ -348,8 +348,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishUS;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.ExpandDock:
@@ -411,8 +411,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.FrenchFrance;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.GermanGermany:
@@ -420,8 +420,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.GermanGermany;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.IconsIconic:
@@ -429,8 +429,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.IconsIconic;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.IncreaseOpacity:
@@ -1239,8 +1239,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.RussianRussia;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
                     case FunctionKeys.ShrinkFromBottom:
@@ -1293,8 +1293,8 @@ namespace OptiKey.UI.ViewModels
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.SpanishSpain;
                         InputService.RequestResume();
-                        Log.Info("Changing keyboard to Menu.");
-                        Keyboard = new Menu(() => Keyboard = currentKeyboard);
+                        Log.Info("Changing keyboard to Alpha.");
+                        Keyboard = new Alpha();
                         break;
 
 
