@@ -32,6 +32,7 @@
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
             <ColumnDefinition Width="{Binding ScratchpadWidthInKeys, RelativeSource={RelativeSource AncestorType=controls:Output}, Converter={StaticResource ConvertToStarGridLength}}" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
@@ -116,25 +117,30 @@
                       Text="{x:Static resx:Resources.NEXT}"
                       SharedSizeGroup="KeyWithSymbol"
                           Value="{x:Static models:KeyValues.NextSuggestionsKey}"/>
-
+        
         <controls:Key Grid.Row="1" Grid.Column="0"
+                      Text="TEMP ICON"
+                      SharedSizeGroup="KeyWithText"
+                      Value="{x:Static models:KeyValues.IconsIconicKey}"/>
+
+        <controls:Key Grid.Row="1" Grid.Column="1"
                       SymbolGeometry="{StaticResource AddToDictionaryIcon}" 
                       Text="{x:Static resx:Resources.ADD_TO_DICTIONARY_SPLIT_WITH_NEWLINE}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.AddToDictionaryKey}"/>
-        <controls:Key Grid.Row="1" Grid.Column="1"                   
+        <controls:Key Grid.Row="1" Grid.Column="2"                   
                       SymbolGeometry="{StaticResource ClearIcon}" 
                       Text="{x:Static resx:Resources.CLEAR}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.ClearScratchpadKey}"/>
-        <controls:Scratchpad Grid.Row="1" Grid.Column="2"
+        <controls:Scratchpad Grid.Row="1" Grid.Column="3"
                              Text="{Binding DataContext.KeyboardOutputService.Text, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=OneWay}" />
-        <controls:Key Grid.Row="1" Grid.Column="3"
+        <controls:Key Grid.Row="1" Grid.Column="4"
                       SymbolGeometry="{StaticResource SpeakIcon}" 
                       Text="{x:Static resx:Resources.SPEAK}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.SpeakKey}"/>
-        <controls:Key Grid.Row="1" Grid.Column="21" Grid.ColumnSpan="2"
+        <controls:Key Grid.Row="1" Grid.Column="22" Grid.ColumnSpan="2"
                       SymbolGeometry="{StaticResource MenuIcon}"
                       Text="{x:Static resx:Resources.MENU}"
                       SharedSizeGroup="KeyWithSymbol"
