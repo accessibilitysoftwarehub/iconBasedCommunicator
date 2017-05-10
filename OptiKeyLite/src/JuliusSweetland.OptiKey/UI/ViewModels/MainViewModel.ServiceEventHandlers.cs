@@ -170,6 +170,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.AlphaKeyboard:
                         Log.Info("Changing keyboard to Alpha.");
+                        mainWindowManipulationService.Maximise();
                         Keyboard = new Alpha();
                         break;
 
@@ -309,6 +310,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.DutchBelgium:
                         Log.Info("Changing keyboard language to DutchBelgium.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.DutchBelgium;
                         InputService.RequestResume();
@@ -318,6 +320,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.DutchNetherlands:
                         Log.Info("Changing keyboard language to DutchNetherlands.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.DutchNetherlands;
                         InputService.RequestResume();
@@ -327,6 +330,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.EnglishCanada:
                         Log.Info("Changing keyboard language to EnglishCanada.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishCanada;
                         InputService.RequestResume();
@@ -336,6 +340,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.EnglishUK:
                         Log.Info("Changing keyboard language to EnglishUK.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishUK;
                         InputService.RequestResume();
@@ -345,6 +350,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.EnglishUS:
                         Log.Info("Changing keyboard language to EnglishUS.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.EnglishUS;
                         InputService.RequestResume();
@@ -408,6 +414,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.FrenchFrance:
                         Log.Info("Changing keyboard language to FrenchFrance.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.FrenchFrance;
                         InputService.RequestResume();
@@ -417,6 +424,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.GermanGermany:
                         Log.Info("Changing keyboard language to GermanGermany.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.GermanGermany;
                         InputService.RequestResume();
@@ -426,6 +434,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.IconsIconic:
                         Log.Info("Changing keyboard language to Iconic Keyboard.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.IconsIconic;
                         InputService.RequestResume();
@@ -440,14 +449,14 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.LanguageKeyboard:
                         Log.Info("Restoring window size.");
-                        mainWindowManipulationService.Restore();
+                        mainWindowManipulationService.Maximise();
                         Log.Info("Changing keyboard to Language.");
                         Keyboard = new Language(() => Keyboard = currentKeyboard);
                         break;
 
                     case FunctionKeys.MenuKeyboard:
                         Log.Info("Restoring window size.");
-                        mainWindowManipulationService.Restore();
+                        mainWindowManipulationService.Maximise();
                         Log.Info("Changing keyboard to Menu.");
                         Keyboard = new Menu(() => Keyboard = currentKeyboard);
                         break;
@@ -1236,6 +1245,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.RussianRussia:
                         Log.Info("Changing keyboard language to RussianRussia.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.RussianRussia;
                         InputService.RequestResume();
@@ -1290,6 +1300,7 @@ namespace OptiKey.UI.ViewModels
 
                     case FunctionKeys.SpanishSpain:                        
                         Log.Info("Changing keyboard language to SpanishSpain.");
+                        mainWindowManipulationService.Maximise();
                         InputService.RequestSuspend(); //Reloading the dictionary locks the UI thread, so suspend input service to prevent accidental selections until complete
                         Settings.Default.KeyboardAndDictionaryLanguage = Languages.SpanishSpain;
                         InputService.RequestResume();
