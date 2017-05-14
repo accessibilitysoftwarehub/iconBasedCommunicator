@@ -22,6 +22,11 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
@@ -44,103 +49,105 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
-            
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+
         </Grid.ColumnDefinitions>
 
-        <controls:IconOutput Grid.Row="0" Grid.Column="0"
+        <controls:IconOutput Grid.Row="1" Grid.Column="1"
                          Grid.RowSpan="1" Grid.ColumnSpan="24" 
-                         ScratchpadWidthInKeys="8"
+                         ScratchpadWidthInKeys="6"
                          NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
         <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
 
         <!-- first row -->
-        <controls:Key Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BadmingtonSport}"
                       Text="Badmington"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch badmington"/>
-        <controls:Key Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BaseballSport}"
                       Text="Baseball"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch baseball"/>
-        <controls:Key Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BasketballSport}"
                       Text="Basketball"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch basketball"/>
-        <controls:Key Grid.Row="1" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CricketSport}"
                       Text="Cricket"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch cricket"/>
-        <controls:Key Grid.Row="1" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource GolfSport}"
                       Text="Golf"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch golf"/>
-
-        <!-- second row -->
-        <controls:Key Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HockeySport}"
                       Text="Hockey"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch turf hockey"/>
-        <controls:Key Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="4"
+
+        <!-- second row -->
+        <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource RugbySport}"
                       Text="Rugby"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch rugby"/>
-        <controls:Key Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SoccerSport}"
                       Text="Soccer"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch soccer"/>
-        <controls:Key Grid.Row="2" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SwimmingSport}"
                       Text="Swimming"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch swimming"/>
-        <controls:Key Grid.Row="2" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TennisSport}"
                       Text="Tennis"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch tennis"/>
+        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      />
 
         <!-- third row -->
-        <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
 
         <!-- fourth row -->
-        <controls:Key Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-
-        <!-- fifth row -->
-        <controls:Key Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="12" Grid.ColumnSpan="4"
-                      />
-        <controls:Key Grid.Row="5" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       SymbolGeometry="{StaticResource BackIcon}"
                       Text="{x:Static resx:Resources.BACK}"
                       SharedSizeGroup="KeyWithSymbolAndText"

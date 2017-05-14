@@ -22,8 +22,19 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
@@ -47,122 +58,105 @@
 
         </Grid.ColumnDefinitions>
 
-        <controls:IconOutput Grid.Row="0" Grid.Column="0"
+        <controls:IconOutput Grid.Row="1" Grid.Column="1"
                          Grid.RowSpan="1" Grid.ColumnSpan="24" 
-                         ScratchpadWidthInKeys="8"
+                         ScratchpadWidthInKeys="6"
                          NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
         <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
 
         <!-- first row -->
-        <controls:Key Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BathIcon}"
                       Text="Bath"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Bath"
-                      />
-        <controls:Key Grid.Row="1" Grid.Column="4" Grid.ColumnSpan="4"
+                      Value="I want a Bath"/>
+        <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ShowerIcon}"
                       Text="Shower"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Shower"
-                      />
-        <controls:Key Grid.Row="1" Grid.Column="8" Grid.ColumnSpan="4"
+                      Value="I want a Shower"/>
+        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HandBasinIcon}"
                       Text="Hand Basin"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I need a sink"
-                      />
-        <controls:Key Grid.Row="1" Grid.Column="12" Grid.ColumnSpan="4"
+                      Value="I need a sink"/>
+        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource MirrorIcon}"
                       Text="Mirror"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Mirror"
-                      />
-        <controls:Key Grid.Row="1" Grid.Column="16" Grid.ColumnSpan="4"
+                      Value="I want a Mirror"/>
+        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ShampooIcon}"
                       Text="Shampoo"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want Shampoo"
-                      />
-
-        <!-- second row -->
-        <controls:Key Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="4"
+                      Value="I want Shampoo"/>
+        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SoapIcon}"
                       Text="Soap"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some Soap"
-                      />
-        <controls:Key Grid.Row="2" Grid.Column="4" Grid.ColumnSpan="4"
+                      Value="I want some Soap"/>
+
+        <!-- second row -->
+        <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToiletIcon}"
                       Text="Toilet"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want the Toilet"
-                      />
-        <controls:Key Grid.Row="2" Grid.Column="8" Grid.ColumnSpan="4"
+                      Value="I want the Toilet"/>
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToiletPaperIcon}"
                       Text="ToiletPaper"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some toilet paper"
-                      />
-        <controls:Key Grid.Row="2" Grid.Column="12" Grid.ColumnSpan="4"
+                      Value="I want some toilet paper"/>
+        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToothbrushIcon}"
                       Text="ToothBrush"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Tooth Brush"
-                      />
-        <controls:Key Grid.Row="2" Grid.Column="16" Grid.ColumnSpan="4"
+                      Value="I want a Tooth Brush"/>
+        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WaterTempIcon}"
                       Text="Water Temperature"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="The Water Temperature is "
-                      />
-
-        <!-- third row -->
-        <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="4"
+                      Value="The Water Temperature is "/>
+        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HotWeather}"
                       Text="Too Hot"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Too Hot"
-                      />
-        <controls:Key Grid.Row="3" Grid.Column="4" Grid.ColumnSpan="4"
+                      Value="Too Hot"/>
+        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ColdWeather}"
                       Text="Too COld"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Too Cold"
-                      />
-        <controls:Key Grid.Row="3" Grid.Column="8" Grid.ColumnSpan="4"
+                      Value="Too Cold"/>
+
+        <!-- third row -->
+        <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CottonSwabsIcon}"
                       Text="Cotton Swabs"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some cotton swabs"
+                      Value="I want some cotton swabs"/>
+        <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="3" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      />
+        <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
 
         <!-- fourth row -->
-        <controls:Key Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="12" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
-
-        <!-- fifth row -->
-        <controls:Key Grid.Row="5" Grid.Column="0" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="4" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="4"
-                        />
-        <controls:Key Grid.Row="5" Grid.Column="12" Grid.ColumnSpan="4"
-                      />
-        <controls:Key Grid.Row="5" Grid.Column="16" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       SymbolGeometry="{StaticResource BackIcon}"
                       Text="{x:Static resx:Resources.BACK}"
                       SharedSizeGroup="KeyWithSymbolAndText"
