@@ -164,6 +164,8 @@ namespace OptiKey.Models
         public static readonly KeyValue EntertainmentKeyboardKey = new KeyValue(FunctionKeys.EntertainmentKeyboard);
         public static readonly KeyValue TimeKeyboardKey = new KeyValue(FunctionKeys.TimeKeyboard);
         public static readonly KeyValue GesturesKeyboardKey = new KeyValue(FunctionKeys.GesturesKeyboard);
+        public static readonly KeyValue AnimalsKeyboardKey = new KeyValue(FunctionKeys.AnimalsKeyboard);
+        public static readonly KeyValue DrinksKeyboardKey = new KeyValue(FunctionKeys.DrinksKeyboard);
 
 
         private static readonly Dictionary<Languages, List<KeyValue>> multiKeySelectionKeys;

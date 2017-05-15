@@ -460,6 +460,16 @@ namespace OptiKey.UI.ViewModels
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
                         break;
+                    case Enums.Keyboards.AnimalsKeyboard:
+                        Keyboard = new Animals();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
+                    case Enums.Keyboards.DrinksKeyboard:
+                        Keyboard = new Drinks();
+                        windowManipulationService.Restore();
+                        mainWindowManipulationService.ResizeDockToFull();
+                        break;
                 }
             }
         }

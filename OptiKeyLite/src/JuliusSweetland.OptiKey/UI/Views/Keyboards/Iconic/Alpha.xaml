@@ -178,11 +178,17 @@
                       Value="{x:Static models:KeyValues.BathroomKeyboardKey}"/>
         
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      />
-        
+                      IconImage="{StaticResource dogAnimals}"
+                      Text="Animals"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.AnimalsKeyboardKey}"/>
+
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      />
-        
+                      IconImage="{StaticResource waterDrinks}"
+                      Text="Drinks"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.DrinksKeyboardKey}"/>
+
         <!-- New Keyboards -->
         
         
