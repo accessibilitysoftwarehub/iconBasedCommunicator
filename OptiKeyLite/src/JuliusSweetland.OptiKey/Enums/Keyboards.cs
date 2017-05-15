@@ -30,6 +30,8 @@
         ClothesKeyboard,
         EntertainmentKeyboard,
         TimeKeyboard,
-        GesturesKeyboard
+        GesturesKeyboard,
+        AnimalsKeyboard,
+        DrinksKeyboard
     }
 }

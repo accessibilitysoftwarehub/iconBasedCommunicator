@@ -370,6 +370,14 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.Gestures { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.Animals)
+            {
+                newContent = new CommonViews.Animals { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Drinks)
+            {
+                newContent = new CommonViews.Drinks { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

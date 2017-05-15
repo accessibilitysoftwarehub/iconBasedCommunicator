@@ -303,4 +303,71 @@
     <BitmapImage x:Key="ThumbUpIcon" UriSource="/Resources/Icons/SVG Gestures Icons/thumbUp.png"/>
     <BitmapImage x:Key="WaveIcon" UriSource="/Resources/Icons/SVG Gestures Icons/wave.png"/>
     <BitmapImage x:Key="WinkIcon" UriSource="/Resources/Icons/SVG Gestures Icons/wink.png"/>
+
+    <BitmapImage x:Key="alcoholic-drinkDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/alcoholic-drink.png"/>
+    <BitmapImage x:Key="beerDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/beer.png"/>
+    <BitmapImage x:Key="brandyDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/brandy.png"/>
+    <BitmapImage x:Key="champagneDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/champagne.png"/>
+    <BitmapImage x:Key="cocktailDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/cocktail.png"/>
+    <BitmapImage x:Key="coffeeDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/coffee.png"/>
+    <BitmapImage x:Key="gin-tonicDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/gin-tonic.png"/>
+    <BitmapImage x:Key="martiniDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/martini.png"/>
+    <BitmapImage x:Key="milkDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/milk.png"/>
+    <BitmapImage x:Key="orange-juiceDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/orange-juice.png"/>
+    <BitmapImage x:Key="soft-drinkDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/soft-drink.png"/>
+    <BitmapImage x:Key="teaDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/tea.png"/>
+    <BitmapImage x:Key="tequilaDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/tequila.png"/>
+    <BitmapImage x:Key="vodkaDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/vodka.png"/>
+    <BitmapImage x:Key="waterDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/water.png"/>
+    <BitmapImage x:Key="whiskeyDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/whiskey.png"/>
+    <BitmapImage x:Key="wineDrinks" UriSource="/Resources/Icons/SVG Drinks Icons/wine.png"/>
+
+    <BitmapImage x:Key="ant-eaterAnimals" UriSource="/Resources/Icons/SVG Animal Icons/ant-eater.png"/>
+    <BitmapImage x:Key="badgerAnimals" UriSource="/Resources/Icons/SVG Animal Icons/badger.png"/>
+    <BitmapImage x:Key="bearAnimals" UriSource="/Resources/Icons/SVG Animal Icons/bear.png"/>
+    <BitmapImage x:Key="bullAnimals" UriSource="/Resources/Icons/SVG Animal Icons/bull.png"/>
+    <BitmapImage x:Key="camelAnimals" UriSource="/Resources/Icons/SVG Animal Icons/camel.png"/>
+    <BitmapImage x:Key="catAnimals" UriSource="/Resources/Icons/SVG Animal Icons/cat.png"/>
+    <BitmapImage x:Key="chameleonAnimals" UriSource="/Resources/Icons/SVG Animal Icons/chameleon.png"/>
+    <BitmapImage x:Key="cowAnimals" UriSource="/Resources/Icons/SVG Animal Icons/cow.png"/>
+    <BitmapImage x:Key="crocodileAnimals" UriSource="/Resources/Icons/SVG Animal Icons/crocodile.png"/>
+    <BitmapImage x:Key="deerAnimals" UriSource="/Resources/Icons/SVG Animal Icons/deer.png"/>
+    <BitmapImage x:Key="dogAnimals" UriSource="/Resources/Icons/SVG Animal Icons/dog.png"/>
+    <BitmapImage x:Key="dolphinAnimals" UriSource="/Resources/Icons/SVG Animal Icons/dolphin.png"/>
+    <BitmapImage x:Key="donkeyAnimals" UriSource="/Resources/Icons/SVG Animal Icons/donkey.png"/>
+    <BitmapImage x:Key="duckAnimals" UriSource="/Resources/Icons/SVG Animal Icons/duck.png"/>
+    <BitmapImage x:Key="elephantAnimals" UriSource="/Resources/Icons/SVG Animal Icons/elephant.png"/>
+    <BitmapImage x:Key="fishAnimals" UriSource="/Resources/Icons/SVG Animal Icons/fish.png"/>
+    <BitmapImage x:Key="foxAnimals" UriSource="/Resources/Icons/SVG Animal Icons/fox.png"/>
+    <BitmapImage x:Key="giraffeAnimals" UriSource="/Resources/Icons/SVG Animal Icons/giraffe.png"/>
+    <BitmapImage x:Key="goatAnimals" UriSource="/Resources/Icons/SVG Animal Icons/goat.png"/>
+    <BitmapImage x:Key="gooseAnimals" UriSource="/Resources/Icons/SVG Animal Icons/goose.png"/>
+    <BitmapImage x:Key="hedgehogAnimals" UriSource="/Resources/Icons/SVG Animal Icons/hedgehog.png"/>
+    <BitmapImage x:Key="hippopotamusAnimals" UriSource="/Resources/Icons/SVG Animal Icons/hippopotamus.png"/>
+    <BitmapImage x:Key="horseAnimals" UriSource="/Resources/Icons/SVG Animal Icons/horse.png"/>
+    <BitmapImage x:Key="kangarooAnimals" UriSource="/Resources/Icons/SVG Animal Icons/kangaroo.png"/>
+    <BitmapImage x:Key="koalaAnimals" UriSource="/Resources/Icons/SVG Animal Icons/koala.png"/>
+    <BitmapImage x:Key="lionAnimals" UriSource="/Resources/Icons/SVG Animal Icons/lion.png"/>
+    <BitmapImage x:Key="monkeyAnimals" UriSource="/Resources/Icons/SVG Animal Icons/monkey.png"/>
+    <BitmapImage x:Key="mooseAnimals" UriSource="/Resources/Icons/SVG Animal Icons/moose.png"/>
+    <BitmapImage x:Key="mouseAnimals" UriSource="/Resources/Icons/SVG Animal Icons/mouse.png"/>
+    <BitmapImage x:Key="pandaAnimals" UriSource="/Resources/Icons/SVG Animal Icons/panda.png"/>
+    <BitmapImage x:Key="pantherAnimals" UriSource="/Resources/Icons/SVG Animal Icons/panther.png"/>
+    <BitmapImage x:Key="penguinAnimals" UriSource="/Resources/Icons/SVG Animal Icons/penguin.png"/>
+    <BitmapImage x:Key="pigAnimals" UriSource="/Resources/Icons/SVG Animal Icons/pig.png"/>
+    <BitmapImage x:Key="rabbitAnimals" UriSource="/Resources/Icons/SVG Animal Icons/rabbit.png"/>
+    <BitmapImage x:Key="racoonAnimals" UriSource="/Resources/Icons/SVG Animal Icons/racoon.png"/>
+    <BitmapImage x:Key="ravenAnimals" UriSource="/Resources/Icons/SVG Animal Icons/raven.png"/>
+    <BitmapImage x:Key="rhinocerosAnimals" UriSource="/Resources/Icons/SVG Animal Icons/rhinoceros.png"/>
+    <BitmapImage x:Key="roosterAnimals" UriSource="/Resources/Icons/SVG Animal Icons/rooster.png"/>
+    <BitmapImage x:Key="sealAnimals" UriSource="/Resources/Icons/SVG Animal Icons/seal.png"/>
+    <BitmapImage x:Key="sheepAnimals" UriSource="/Resources/Icons/SVG Animal Icons/sheep.png"/>
+    <BitmapImage x:Key="snailAnimals" UriSource="/Resources/Icons/SVG Animal Icons/snail.png"/>
+    <BitmapImage x:Key="snakeAnimals" UriSource="/Resources/Icons/SVG Animal Icons/snake.png"/>
+    <BitmapImage x:Key="squirrelAnimals" UriSource="/Resources/Icons/SVG Animal Icons/squirrel.png"/>
+    <BitmapImage x:Key="tigerAnimals" UriSource="/Resources/Icons/SVG Animal Icons/tiger.png"/>
+    <BitmapImage x:Key="turtleAnimals" UriSource="/Resources/Icons/SVG Animal Icons/turtle.png"/>
+    <BitmapImage x:Key="vultureAnimals" UriSource="/Resources/Icons/SVG Animal Icons/vulture.png"/>
+    <BitmapImage x:Key="wolfAnimals" UriSource="/Resources/Icons/SVG Animal Icons/wolf.png"/>
+    <BitmapImage x:Key="zebraAnimals" UriSource="/Resources/Icons/SVG Animal Icons/zebra.png"/>
 </ResourceDictionary>
