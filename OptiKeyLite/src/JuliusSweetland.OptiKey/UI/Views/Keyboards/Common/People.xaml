@@ -67,59 +67,48 @@
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BrotherPerson}"
-                      Text="Brother"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my brother"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CatPerson}"
-                      Text="Cat"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my cat"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DadPerson}"
-                      Text="Dad"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my dad"/>
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DoctorPerson}"
-                      Text="Doctor"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I need a doctor"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DogPerson}"
-                      Text="Dog"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my dog"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource FiremanPerson}"
-                      Text="Fireman"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I need the fireman"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource MumPerson}"
-                      Text="Mum"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my mum"/>
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource PolicePerson}"
-                      Text="Police"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I need the police"/>
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SantaPerson}"
-                      Text="Santa"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want santa"/>
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SisterPerson}"
-                      Text="Sister"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my sister"/>
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TeacherPerson}"
-                      Text="Teacher"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I need my teacher"/>
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
