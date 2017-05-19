@@ -66,34 +66,51 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource GamingIcon}"
+                      IconImage="{StaticResource BoardGameEntertainment}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want to play a game"/>
+                      Value="BoardGame"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource MovieIcon}"
+                      IconImage="{StaticResource BookEntertainment}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want to watch a movie"/>
+                      Value="Book"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource MusicalIcon}"
+                      IconImage="{StaticResource GamingEntertainment}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want to listen to music"/>
+                      Value="Video Game"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource RadioIcon}"
+                      IconImage="{StaticResource MovieEntertainment}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want to listen to the radio"/>
+                      Value="Movie"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource TvIcon}"
+                      IconImage="{StaticResource MusicalEntertainment}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want to watch TV"/>
+                      Value="Music"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource PetEntertainment}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Pet"
                       />
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource RadioEntertainment}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Radio"
                       />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ToyEntertainment}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Toys"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TvEntertainment}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Tv"
                       />
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

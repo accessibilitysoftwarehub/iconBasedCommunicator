@@ -66,34 +66,40 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource BedIcon}"
+                      IconImage="{StaticResource BedHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Bed"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ChairIcon}"
+                      IconImage="{StaticResource ChairHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Chair"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource CouchIcon}"
+                      IconImage="{StaticResource CouchHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Couch"/>
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource DoorIcon}"
+                      IconImage="{StaticResource DoorHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Door"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource KnifeAndForkIcon}"
+                      IconImage="{StaticResource KnifeAndForkHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Knife and Fork"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SpoonIcon}"
+                      IconImage="{StaticResource SpoonHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Spoon"/>
 
         <!-- second row -->
-        <controls:Key Grid.Row="4" Grid.Column="2" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TvHouseHold}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Tv"
                       />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WheelChairHouseHold}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="WheelChair"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

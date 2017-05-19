@@ -86,42 +86,57 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want my dog"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource FiremanPerson}"
+                      IconImage="{StaticResource FamilyPerson}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I need the fireman"/>
+                      Value="Family"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource FiremanPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Fireman"/>
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource FriendPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Friend"/>
+        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GrandFatherPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="GrandFather"/>
+        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GrandMotherPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="GrandMother"/>
+        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GrandParentsPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="GrandParents"/>
+        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource MumPerson}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want my mum"/>
-        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource PolicePerson}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="I need the police"/>
-        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SantaPerson}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="I want santa"/>
-        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SisterPerson}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="I want my sister"/>
-        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource TeacherPerson}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="I need my teacher"/>
-        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      Value="Mum"
                       />
 
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource PolicePerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Police"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SantaPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Santa"
                       />
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SisterPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Sister"
                       />
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TeacherPerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Teacher"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

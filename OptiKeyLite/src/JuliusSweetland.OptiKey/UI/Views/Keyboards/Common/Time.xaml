@@ -66,34 +66,40 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource BedTimeIcon}"
+                      IconImage="{StaticResource BedTimeTime}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Bed Time"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource BreakfastIcon}"
+                      IconImage="{StaticResource BreakfastTime}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Breakfast Time"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource DinnerIcon}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Dinner Time"/>
-        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource LunchIcon}"
+                      IconImage="{StaticResource LunchTime}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Lunch Time"/>
+        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource DinnerTime}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Dinner Time"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource MorningIcon}"
+                      IconImage="{StaticResource MorningTime}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Morning Time"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource NightIcon}"
+                      IconImage="{StaticResource NightTime}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Night Time"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource PastTime}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Past"
                       />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource FutureTime}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Future"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

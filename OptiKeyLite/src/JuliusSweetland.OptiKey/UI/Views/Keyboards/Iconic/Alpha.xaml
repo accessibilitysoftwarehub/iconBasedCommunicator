@@ -117,7 +117,7 @@
                       Value="{x:Static models:KeyValues.SportKeyboardKey}"/>
         
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource ShirtIcon}"
+                      IconImage="{StaticResource ShirtClothes}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.ClothesKeyboardKey}"/>
 
@@ -157,7 +157,7 @@
                       Value="{x:Static models:KeyValues.EnglishUKKey}"/>
         
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource BathIcon}"
+                      IconImage="{StaticResource BathBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"  
                       Value="{x:Static models:KeyValues.BathroomKeyboardKey}"/>
         

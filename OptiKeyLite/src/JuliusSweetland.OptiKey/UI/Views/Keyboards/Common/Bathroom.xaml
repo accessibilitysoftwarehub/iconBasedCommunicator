@@ -66,70 +66,98 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource BathIcon}"
+                      IconImage="{StaticResource BathBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Bath"/>
+                      Value="Bath"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ShowerIcon}"
+                      IconImage="{StaticResource CottonSwabsBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Shower"/>
+                      Value="Cotton Swabs"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HandBasinIcon}"
+                      IconImage="{StaticResource DrugsBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I need a sink"/>
+                      Value="Drugs"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource MirrorIcon}"
+                      IconImage="{StaticResource HairdryerBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Mirror"/>
+                      Value="Hair Dryer"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ShampooIcon}"
+                      IconImage="{StaticResource HandBasinBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want Shampoo"/>
+                      Value="HandBasin"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SoapIcon}"
+                      IconImage="{StaticResource LockBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some Soap"/>
+                      Value="Lock"
+                      />
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ToiletIcon}"
+                      IconImage="{StaticResource MirrorBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want the Toilet"/>
+                      Value="Mirror"
+                      />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ToiletPaperIcon}"
+                      IconImage="{StaticResource ShampooBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some toilet paper"/>
+                      Value="Shampoo"
+                      />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ToothbrushIcon}"
+                      IconImage="{StaticResource ShowerBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want a Tooth Brush"/>
+                      Value="Shower"
+                      />
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource WaterTempIcon}"
+                      IconImage="{StaticResource SoapBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="The Water Temperature is "/>
+                      Value="Soap"
+                      />
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HotWeather}"
+                      IconImage="{StaticResource ToiletBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Too Hot"/>
+                      Value="Lock"
+                      />
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ColdWeather}"
+                      IconImage="{StaticResource ToiletPaperBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Too Cold"/>
+                      Value="Toilet Paper"
+                      />
 
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource CottonSwabsIcon}"
+                      IconImage="{StaticResource ToothbrushBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I want some cotton swabs"/>
+                      Value="ToothBrush"
+                      />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TowelBathRoom}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Towel"
                       />
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WaterTempBathRoom}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Water Temperature"
                       />
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WetFloorBathRoom}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="WetFloor"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HotWeather}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hot"
                       />
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ColdWeather}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Cold"
                       />
 
         <!-- fourth row -->
@@ -148,5 +176,6 @@
                       Text="{x:Static resx:Resources.BACK}"
                       SharedSizeGroup="KeyWithSymbolAndText"
                       Value="{x:Static models:KeyValues.AlphaKeyboardKey}"/>
+
     </Grid>
 </controls:KeyboardView>

@@ -70,60 +70,78 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.CountriesKeyboardKey}"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource AmusementParkPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="AmusementPark"/>
+        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BeachPlace}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Beach"/>
-        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ChurchPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Church"/>
+        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DesertPlace}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Desert"/>
-        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource FarmPlace}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Farm"/>
-        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource GymPlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Gym"/>
-        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HomePlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Home"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GymPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Gym"/>
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HomePlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Home"/>
+        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HospitalPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hospital"/>
+        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource LibaryPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Libary"/>
+        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource MountainsPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Mountains"/>
+        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ParkPlace}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Park"/>
-        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource PoolPlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Pool"/>
-        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SchoolPlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="School"/>
-        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource VolcanoPlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Volcano"/>
-        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource WorkPlace}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Work"/>
-        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      Value="park"
                       />
 
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource PlayGroundPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="PlayGround"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource PoolPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Pool"
                       />
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SchoolPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="School"
                       />
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource VolcanoPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Volcano"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WorkPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Work"
                       />
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
