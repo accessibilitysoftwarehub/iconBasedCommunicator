@@ -67,91 +67,74 @@
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource AngryEmotion}"
-                      Text="Angry"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am angry"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource AnnoyedEmotion}"
-                      Text="Annoyed"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am annoyed"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BoredEmotion}"
-                      Text="Bored"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am bored"/>
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ConfusedEmotion}"
-                      Text="Confused"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am confused"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DisappointedEmotion}"
-                      Text="Disappointed"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am disappointed"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ExcitedEmotion}"
-                      Text="Excited"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am excited"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HappyEmotion}"
-                      Text="Happy"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am happy"/>
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HotEmotion}"
-                      Text="Hot"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am feeling hot"/>
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource LoveEmotion}"
-                      Text="Love"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am in love"/>
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SadEmotion}"
-                      Text="Sad"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am sad"/>
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ScaredEmotion}"
-                      Text="Scared"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am scared"/>
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SickEmotion}"
-                      Text="Sick"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am sick"/>
         
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SillyEmotion}"
-                      Text="Silly"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am feeling silly"/>
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SoreEmotion}"
-                      Text="Sore"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am in pain"/>
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SurprisedEmotion}"
-                      Text="Surprised"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am surprised"/>
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ThinkingEmotion}"
-                      Text="Thinking"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am thinking"/>
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TiredEmotion}"
-                      Text="Tired"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am tired"/>
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"

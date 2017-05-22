@@ -68,19 +68,16 @@
         <!-- left column -->
         <controls:Key Grid.Row="2"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource TickIcon}"
-                      Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="YES"
                         />
         <controls:Key Grid.Row="4"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource CrossIcon}"
-                      Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="NO"
                         />
         <controls:Key Grid.Row="6"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource QuestionIcon}"
-                      Text="Yes"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I'm not sure"
                         />
@@ -101,91 +98,76 @@
         <!-- ICON KEYS  -->
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource FoodIcon}"
-                      Text="Food"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.FoodKeyboardKey}"/>
         
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource HouseIcon}"
-                      Text="Household"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.HouseholdKeyboardKey}"/>
         
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource PeopleIcon}"
-                      Text="People"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.PeopleKeyboardKey}"/>
         
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource BasketballIcon}"
-                      Text="Sports"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.SportKeyboardKey}"/>
         
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource ShirtIcon}"
-                      Text="Clothes"
+                      IconImage="{StaticResource ShirtClothes}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.ClothesKeyboardKey}"/>
 
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource PlacesIcon}"
-                      Text="Places"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.PlacesKeyboardKey}"/>
         
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource EmotionIcon}"
-                      Text="Emotions"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.emotionKeyboardKeyboardKey}"/>
 
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GameIcon}"
-                      Text="Entertainment"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.EntertainmentKeyboardKey}"/>
         
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource ClockIcon}"
-                      Text="Time"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.TimeKeyboardKey}"/>
         
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource TemperatureIcon}"
-                      Text="Temperature"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.WeatherKeyboardKey}"/>
 
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource GreetingIcon}"
-                      Text="Greetings"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.GesturesKeyboardKey}"/>
         
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource KeyboardOptionIcon}"
-                      Text="Keyboard"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.EnglishUKKey}"/>
         
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource BathIcon}"
-                      Text="Bathroom"  
+                      IconImage="{StaticResource BathBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"  
                       Value="{x:Static models:KeyValues.BathroomKeyboardKey}"/>
         
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource dogAnimals}"
-                      Text="Animals"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.AnimalsKeyboardKey}"/>
 
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.ColumnSpan="4" Grid.RowSpan="2"
                       IconImage="{StaticResource waterDrinks}"
-                      Text="Drinks"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.DrinksKeyboardKey}"/>
 

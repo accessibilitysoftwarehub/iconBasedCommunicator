@@ -67,54 +67,44 @@
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BadmingtonSport}"
-                      Text="Badmington"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch badmington"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BaseballSport}"
-                      Text="Baseball"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch baseball"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BasketballSport}"
-                      Text="Basketball"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch basketball"/>
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CricketSport}"
-                      Text="Cricket"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch cricket"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource GolfSport}"
-                      Text="Golf"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch golf"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HockeySport}"
-                      Text="Hockey"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch turf hockey"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource RugbySport}"
-                      Text="Rugby"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch rugby"/>
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SoccerSport}"
-                      Text="Soccer"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch soccer"/>
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SwimmingSport}"
-                      Text="Swimming"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch swimming"/>
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TennisSport}"
-                      Text="Tennis"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I want to watch tennis"/>
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"

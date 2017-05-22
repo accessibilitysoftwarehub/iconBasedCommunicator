@@ -66,68 +66,125 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource DressIcon}"
+                      IconImage="{StaticResource BackPackClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Dress"/>
+                      Value="BackPack"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HatIcon}"
+                      IconImage="{StaticResource BagClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Hat"/>
+                      Value="Bag"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HighHeelsIcon}"
+                      IconImage="{StaticResource BootClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="High Heels"/>
+                      Value="Boot"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource JeansIcon}"
+                      IconImage="{StaticResource BowTieClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Jeans"/>
+                      Value="BowTie"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource TShirtIcon}"
+                      IconImage="{StaticResource DressClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Shirt"/>
+                      Value="Dress"
+                      />
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ShoesIcon}"
+                      IconImage="{StaticResource DressingGownClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Shoes"/>
+                      Value="Dressing Gown"
+                      />
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GlassesClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Glasses"
                       />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource GlovesClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Gloves"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HatClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hat"
                       />
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HighHeelsClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="High Heels"
                       />
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HoodieClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Hoodie"
                       />
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource JacketClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Jacket"
                       />
 
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource JeansClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Jeans"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ShirtClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Shirt"
                       />
         <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ShoeClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Shoe"
                       />
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SkirtClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Skirt"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SlipperClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Slipper"
                       />
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SneakerClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Sneaker"
                       />
 
         <!-- fourth row -->
         <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource SocksClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Socks"
                       />
         <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TieClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Tie"
                       />
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource UnderWearClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Underwear"
                       />
         <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WinterHatClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Winter Hat"
                       />
         <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WristWatchClothes}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="WristWatch"
                       />
         <controls:Key Grid.Row="8" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       SymbolGeometry="{StaticResource BackIcon}"

@@ -66,40 +66,43 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ClapIcon}"
+                      IconImage="{StaticResource ClapGestures}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Clapping"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource FrownIcon}"
+                      IconImage="{StaticResource FrownGestures}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Frowning"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HandshakeIcon}"
+                      IconImage="{StaticResource HandshakeGestures}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Shake Hands"/>
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SmileIcon}"
+                      IconImage="{StaticResource PointGestures}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Smiling"/>
+                      Value="Pointing"/>
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ThumbDownIcon}"
+                      IconImage="{StaticResource TapGestures}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Tap"/>
+        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ThumbDownGestures}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Thumbs Down"/>
-        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource ThumbUpIcon}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Thumbs Up"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource WaveIcon}"
+                      IconImage="{StaticResource ThumbUpGestures}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Waving"/>
+                      Value="Thumbs Up"/>
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource WinkIcon}"
+                      IconImage="{StaticResource WaveGestures}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Winking"/>
+                      Value="Waveing"/>
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource WinkGestures}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Winking"
                       />
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
