@@ -93,7 +93,7 @@
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource LockBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Lock"
+                      Value="Privacy"
                       />
 
         <!-- second row -->
@@ -120,7 +120,7 @@
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToiletBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Lock"
+                      Value="Toilet"
                       />
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToiletPaperBathRoom}"
