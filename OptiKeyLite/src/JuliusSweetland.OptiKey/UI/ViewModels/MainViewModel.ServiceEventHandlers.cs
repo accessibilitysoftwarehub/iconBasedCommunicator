@@ -1220,6 +1220,14 @@ namespace OptiKey.UI.ViewModels
                         Log.Info("Changing keyboard to Gestures.");
                         Keyboard = new Drinks();
                         break;
+                    case FunctionKeys.FruitsKeyboard:
+                        Log.Info("Changing keyboard to Gestures.");
+                        Keyboard = new Fruits();
+                        break;
+                    case FunctionKeys.VegetablesKeyboard:
+                        Log.Info("Changing keyboard to Gestures.");
+                        Keyboard = new Vegetables();
+                        break;
 
                     case FunctionKeys.PreviousSuggestions:
                         Log.Info("Decrementing suggestions page.");

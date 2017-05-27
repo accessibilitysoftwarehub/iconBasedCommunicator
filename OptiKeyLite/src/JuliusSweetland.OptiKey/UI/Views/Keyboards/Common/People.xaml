@@ -139,6 +139,9 @@
                       Value="Teacher"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource NursePerson}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Nurse"
                       />
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

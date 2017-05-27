@@ -76,22 +76,37 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="NO"
                         />
-        <controls:Key Grid.Row="6"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
-                      IconImage="{StaticResource QuestionIcon}"
+        <controls:Key Grid.Row="6"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"                      
+                      IconImage="{StaticResource ThinkingEmotion}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I'm not sure"
+                      Value="I Don't know"
                         />
         <controls:Key Grid.Row="8"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                      Text="Thank You"
+                      SharedSizeGroup="KeyWithSingleLetter"
+                      Value="Thank You"
                         />
         
         <!-- right column -->
         <controls:Key Grid.Row="2"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                      Text="Hello"
+                      SharedSizeGroup="KeyWithSingleLetter"
+                      Value="Hello"
                         />
         <controls:Key Grid.Row="4"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                      Text="Goodbye"
+                      SharedSizeGroup="KeyWithSingleLetter"
+                      Value="Goodbye"
                         />
         <controls:Key Grid.Row="6"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
+                      IconImage="{StaticResource QuestionIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Why?"
                         />
-        <controls:Key Grid.Row="8"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
+        <controls:Key Grid.Row="8"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"                      
+                      IconImage="{StaticResource ConfusedEmotion}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I Don't UnderStand"
                         />
 
 

@@ -378,6 +378,14 @@ namespace OptiKey.UI.Controls
             {
                 newContent = new CommonViews.Drinks { DataContext = Keyboard };
             }
+            else if (Keyboard is ViewModelKeyboards.Fruits)
+            {
+                newContent = new CommonViews.Fruits { DataContext = Keyboard };
+            }
+            else if (Keyboard is ViewModelKeyboards.Vegetables)
+            {
+                newContent = new CommonViews.Vegetables { DataContext = Keyboard };
+            }
 
             Content = newContent;
         }

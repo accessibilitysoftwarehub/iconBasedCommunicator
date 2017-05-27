@@ -357,6 +357,7 @@
     <Compile Include="UI\ViewModels\Keyboards\emotionKeyboard.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Entertainment.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Food.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Fruits.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Gestures.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Household.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Language.cs" />
@@ -375,6 +376,7 @@
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols3.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Sport.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Time.cs" />
+    <Compile Include="UI\ViewModels\Keyboards\Vegetables.cs" />
     <Compile Include="UI\ViewModels\Keyboards\Weather.cs" />
     <Compile Include="UI\ViewModels\Keyboards\YesNoQuestion.cs" />
     <Compile Include="UI\ViewModels\Keyboards\NumericAndSymbols2.cs" />
@@ -410,6 +412,9 @@
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Food.xaml.cs">
       <DependentUpon>Food.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\Fruits.xaml.cs">
+      <DependentUpon>Fruits.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Gestures.xaml.cs">
       <DependentUpon>Gestures.xaml</DependentUpon>
@@ -464,6 +469,9 @@
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Time.xaml.cs">
       <DependentUpon>Time.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Views\Keyboards\Common\Vegetables.xaml.cs">
+      <DependentUpon>Vegetables.xaml</DependentUpon>
     </Compile>
     <Compile Include="UI\Views\Keyboards\Common\Weather.xaml.cs">
       <DependentUpon>Weather.xaml</DependentUpon>
@@ -1366,6 +1374,42 @@
     <Content Include="Resources\Icons\SVG Food Icons\wrap.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\apple.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\avocado.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\banana.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\grapes.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\lemon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\orange.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\peach.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\pear.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\pepper.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\pineapple.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\strawberry.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Fruit Icons\tomato.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Gestures Icons\pointing.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -1454,6 +1498,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG People Icons\mumPerson.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG People Icons\nurse.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG People Icons\policePerson.png">
@@ -1628,6 +1675,30 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Time Icons\past.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\bell-pepper.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\broccoli.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\carrot.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\corn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\lettuce.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\onion.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\pumpkin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG VegeTable Icons\watermelon.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Resources\Icons\SVG Weather Icons\hail.png">
@@ -1904,6 +1975,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="UI\Views\Keyboards\Common\Fruits.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="UI\Views\Keyboards\Common\Gestures.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -1973,6 +2048,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="UI\Views\Keyboards\Common\Time.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UI\Views\Keyboards\Common\Vegetables.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
