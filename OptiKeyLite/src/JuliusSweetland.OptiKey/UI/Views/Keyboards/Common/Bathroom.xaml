@@ -78,7 +78,7 @@
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DrugsBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Drugs"
+                      Value="Medicine"
                       />
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HairdryerBathRoom}"

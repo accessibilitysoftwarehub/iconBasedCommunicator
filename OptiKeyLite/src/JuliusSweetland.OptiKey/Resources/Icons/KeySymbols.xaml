@@ -102,6 +102,7 @@
     <BitmapImage x:Key="ClockIcon" UriSource="/Resources/Icons/SVG Source Files/clock.png" />
     <BitmapImage x:Key="TemperatureIcon" UriSource="/Resources/Icons/SVG Source Files/temperature.png" />
     <BitmapImage x:Key="GreetingIcon" UriSource="/Resources/Icons/SVG Source Files/greeting.png" />
+    <BitmapImage x:Key="HappyIconKeyboardIcon" UriSource="/Resources/Icons/SVG Source Files/HappyIconKeyboard.png" />
     
     <BitmapImage x:Key="AppleFood" UriSource="/Resources/Icons/SVG Food Icons/apple.png" />
     <BitmapImage x:Key="BaconFood" UriSource="/Resources/Icons/SVG Food Icons/bacon.png" />
@@ -138,7 +139,7 @@
     <BitmapImage x:Key="DisappointedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/disappointedEmotion.png"/>
     <BitmapImage x:Key="ExcitedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/excitedEmotion.png"/>
     <BitmapImage x:Key="HappyEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/happyEmotion.png"/>
-    <BitmapImage x:Key="HotEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/hotEmotion.png"/>
+    <BitmapImage x:Key="FeverEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/hotEmotion.png"/>
     <BitmapImage x:Key="LoveEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/loveEmotion.png"/>
     <BitmapImage x:Key="SadEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/sadEmotion.png"/>
     <BitmapImage x:Key="ScaredEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/scaredEmotion.png"/>

@@ -96,9 +96,9 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="I am happy"/>
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource HotEmotion}"
+                      IconImage="{StaticResource FeverEmotion}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I am feeling hot"/>
+                      Value="I have a fever"/>
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource LoveEmotion}"
                       SharedSizeGroup="KeyWithSymbol"
@@ -147,6 +147,9 @@
                       Value="I am Cold"
                       />
         <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource HotWeather}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="I am Hot"
                       />
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

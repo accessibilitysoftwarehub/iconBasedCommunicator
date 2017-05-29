@@ -1590,6 +1590,9 @@
     <Content Include="Resources\Icons\SVG Source Files\greeting.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG Source Files\HappyIconKeyboard.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Source Files\keyboard.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
