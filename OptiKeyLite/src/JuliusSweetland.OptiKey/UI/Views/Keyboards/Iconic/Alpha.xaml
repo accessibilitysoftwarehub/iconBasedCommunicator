@@ -82,20 +82,20 @@
                       Value="I Don't know"
                         />
         <controls:Key Grid.Row="8"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
-                      Text="Thank You"
-                      SharedSizeGroup="KeyWithSingleLetter"
+                      IconImage="{StaticResource Thank-YouIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
                       Value="Thank You"
                         />
         
         <!-- right column -->
         <controls:Key Grid.Row="2"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
-                      Text="Hello"
-                      SharedSizeGroup="KeyWithSingleLetter"
+                      IconImage="{StaticResource HelloIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
                       Value="Hello"
                         />
         <controls:Key Grid.Row="4"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"
-                      Text="Goodbye"
-                      SharedSizeGroup="KeyWithSingleLetter"
+                      IconImage="{StaticResource GoodByeIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
                       Value="Goodbye"
                         />
         <controls:Key Grid.Row="6"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"

@@ -66,7 +66,7 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource CountriesPlace}"
+                      IconImage="{StaticResource MapPlace}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.CountriesKeyboardKey}"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
@@ -144,12 +144,21 @@
                       Value="Work"
                       />
         <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource BankPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Bank"
                       />
 
         <!-- fourth row -->
         <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource RestaurantPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Restaurant"
                       />
         <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource ShopingPlace}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Shoping"
                       />
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
