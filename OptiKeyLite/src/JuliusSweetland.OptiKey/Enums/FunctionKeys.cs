@@ -159,6 +159,8 @@
         TimeKeyboard,
         GesturesKeyboard,
         AnimalsKeyboard,
-        DrinksKeyboard
+        DrinksKeyboard,
+        FruitsKeyboard,
+        VegetablesKeyboard
     }
 }

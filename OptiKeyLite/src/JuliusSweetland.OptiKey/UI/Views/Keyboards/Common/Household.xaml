@@ -86,20 +86,17 @@
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Knife and Fork"/>
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource SpoonHouseHold}"
+                      IconImage="{StaticResource TvHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Spoon"/>
+                      Value="Tv"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource TvHouseHold}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Tv"
-                      />
-        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WheelChairHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="WheelChair"
+                      />
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />

@@ -102,6 +102,10 @@
     <BitmapImage x:Key="ClockIcon" UriSource="/Resources/Icons/SVG Source Files/clock.png" />
     <BitmapImage x:Key="TemperatureIcon" UriSource="/Resources/Icons/SVG Source Files/temperature.png" />
     <BitmapImage x:Key="GreetingIcon" UriSource="/Resources/Icons/SVG Source Files/greeting.png" />
+    <BitmapImage x:Key="HappyIconKeyboardIcon" UriSource="/Resources/Icons/SVG Source Files/HappyIconKeyboard.png" />
+    <BitmapImage x:Key="GoodByeIcon" UriSource="/Resources/Icons/SVG Source Files/Goodbye.png" />
+    <BitmapImage x:Key="HelloIcon" UriSource="/Resources/Icons/SVG Source Files/Hello.png" />
+    <BitmapImage x:Key="Thank-YouIcon" UriSource="/Resources/Icons/SVG Source Files/Thank-You.png" />    
     
     <BitmapImage x:Key="AppleFood" UriSource="/Resources/Icons/SVG Food Icons/apple.png" />
     <BitmapImage x:Key="BaconFood" UriSource="/Resources/Icons/SVG Food Icons/bacon.png" />
@@ -138,7 +142,7 @@
     <BitmapImage x:Key="DisappointedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/disappointedEmotion.png"/>
     <BitmapImage x:Key="ExcitedEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/excitedEmotion.png"/>
     <BitmapImage x:Key="HappyEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/happyEmotion.png"/>
-    <BitmapImage x:Key="HotEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/hotEmotion.png"/>
+    <BitmapImage x:Key="FeverEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/hotEmotion.png"/>
     <BitmapImage x:Key="LoveEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/loveEmotion.png"/>
     <BitmapImage x:Key="SadEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/sadEmotion.png"/>
     <BitmapImage x:Key="ScaredEmotion" UriSource="/Resources/Icons/SVG Emotion Icons/scaredEmotion.png"/>
@@ -165,6 +169,7 @@
     <BitmapImage x:Key="SantaPerson" UriSource="/Resources/Icons/SVG People Icons/santaPerson.png"/>
     <BitmapImage x:Key="SisterPerson" UriSource="/Resources/Icons/SVG People Icons/sisterPerson.png"/>
     <BitmapImage x:Key="TeacherPerson" UriSource="/Resources/Icons/SVG People Icons/teacherPerson.png"/>
+    <BitmapImage x:Key="NursePerson" UriSource="/Resources/Icons/SVG People Icons/nurse.png"/>
 
     <BitmapImage x:Key="BadmingtonSport" UriSource="/Resources/Icons/SVG Sport Icons/badmingtonSport.png"/>
     <BitmapImage x:Key="BaseballSport" UriSource="/Resources/Icons/SVG Sport Icons/baseballSport.png"/>
@@ -196,6 +201,7 @@
     <BitmapImage x:Key="TsunamiWeather" UriSource="/Resources/Icons/SVG Weather Icons/tsunami.png"/>
 
     <BitmapImage x:Key="AmusementParkPlace" UriSource="/Resources/Icons/SVG Place Icons/amusement-park.png"/>
+    <BitmapImage x:Key="BankPlace" UriSource="/Resources/Icons/SVG Place Icons/bank.png"/>
     <BitmapImage x:Key="BeachPlace" UriSource="/Resources/Icons/SVG Place Icons/beach.png"/>
     <BitmapImage x:Key="ChurchPlace" UriSource="/Resources/Icons/SVG Place Icons/church.png"/>
     <BitmapImage x:Key="CountriesPlace" UriSource="/Resources/Icons/SVG Place Icons/countries.png"/>
@@ -205,11 +211,14 @@
     <BitmapImage x:Key="HomePlace" UriSource="/Resources/Icons/SVG Place Icons/home.png"/>
     <BitmapImage x:Key="HospitalPlace" UriSource="/Resources/Icons/SVG Place Icons/hospital.png"/>
     <BitmapImage x:Key="LibaryPlace" UriSource="/Resources/Icons/SVG Place Icons/library.png"/>
+    <BitmapImage x:Key="MapPlace" UriSource="/Resources/Icons/SVG Place Icons/map.png"/>
     <BitmapImage x:Key="MountainsPlace" UriSource="/Resources/Icons/SVG Place Icons/mountains.png"/>
     <BitmapImage x:Key="ParkPlace" UriSource="/Resources/Icons/SVG Place Icons/park.png"/>
     <BitmapImage x:Key="PlayGroundPlace" UriSource="/Resources/Icons/SVG Place Icons/playground.png"/>
     <BitmapImage x:Key="PoolPlace" UriSource="/Resources/Icons/SVG Place Icons/pool.png"/>
+    <BitmapImage x:Key="RestaurantPlace" UriSource="/Resources/Icons/SVG Place Icons/restaurant.png"/>
     <BitmapImage x:Key="SchoolPlace" UriSource="/Resources/Icons/SVG Place Icons/school.png"/>
+    <BitmapImage x:Key="ShopingPlace" UriSource="/Resources/Icons/SVG Place Icons/shoping.png"/>
     <BitmapImage x:Key="VolcanoPlace" UriSource="/Resources/Icons/SVG Place Icons/volcano.png"/>
     <BitmapImage x:Key="WorkPlace" UriSource="/Resources/Icons/SVG Place Icons/work.png"/>
 
@@ -412,6 +421,28 @@
     <BitmapImage x:Key="vultureAnimals" UriSource="/Resources/Icons/SVG Animal Icons/vulture.png"/>    
     <BitmapImage x:Key="wolfAnimals" UriSource="/Resources/Icons/SVG Animal Icons/wolf.png"/>
     <BitmapImage x:Key="zebraAnimals" UriSource="/Resources/Icons/SVG Animal Icons/zebra.png"/>
+
+    <BitmapImage x:Key="AppleFruit" UriSource="/Resources/Icons/SVG Fruit Icons/apple.png"/>
+    <BitmapImage x:Key="AvocadoFruit" UriSource="/Resources/Icons/SVG Fruit Icons/avocado.png"/>
+    <BitmapImage x:Key="BananaFruit" UriSource="/Resources/Icons/SVG Fruit Icons/banana.png"/>
+    <BitmapImage x:Key="GrapesFruit" UriSource="/Resources/Icons/SVG Fruit Icons/grapes.png"/>
+    <BitmapImage x:Key="LemonFruit" UriSource="/Resources/Icons/SVG Fruit Icons/lemon.png"/>
+    <BitmapImage x:Key="OrangeFruit" UriSource="/Resources/Icons/SVG Fruit Icons/orange.png"/>
+    <BitmapImage x:Key="PeachFruit" UriSource="/Resources/Icons/SVG Fruit Icons/peach.png"/>
+    <BitmapImage x:Key="PearFruit" UriSource="/Resources/Icons/SVG Fruit Icons/pear.png"/>
+    <BitmapImage x:Key="PepperFruit" UriSource="/Resources/Icons/SVG Fruit Icons/pepper.png"/>
+    <BitmapImage x:Key="PineappleFruit" UriSource="/Resources/Icons/SVG Fruit Icons/pineapple.png"/>
+    <BitmapImage x:Key="StrawberryFruit" UriSource="/Resources/Icons/SVG Fruit Icons/strawberry.png"/>
+    <BitmapImage x:Key="TomatoFruit" UriSource="/Resources/Icons/SVG Fruit Icons/tomato.png"/>
+
+    <BitmapImage x:Key="BellPepperVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/bell-pepper.png"/>
+    <BitmapImage x:Key="BroccoliVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/broccoli.png"/>
+    <BitmapImage x:Key="CarrotVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/carrot.png"/>
+    <BitmapImage x:Key="CornVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/corn.png"/>
+    <BitmapImage x:Key="LettuceVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/lettuce.png"/>
+    <BitmapImage x:Key="OnionVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/onion.png"/>
+    <BitmapImage x:Key="PumpkinVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/pumpkin.png"/>
+    <BitmapImage x:Key="WatermelonVegeTables" UriSource="/Resources/Icons/SVG VegeTable Icons/watermelon.png"/>
 
 
 </ResourceDictionary>

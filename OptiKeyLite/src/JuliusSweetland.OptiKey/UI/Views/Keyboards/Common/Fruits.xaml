@@ -1,4 +1,4 @@
-﻿<controls:KeyboardView x:Class="OptiKey.UI.Views.Keyboards.Common.Drinks"
+﻿<controls:KeyboardView x:Class="OptiKey.UI.Views.Keyboards.Common.Fruits"
                        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -66,63 +66,66 @@
 
         <!-- first row -->
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource alcoholic-drinkDrinks}"
+                      IconImage="{StaticResource AppleFood}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Alcoholic Drink"
+                      Value="Apple"
                       />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource beerDrinks}"
+                      IconImage="{StaticResource AvocadoFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Beer"
+                      Value="Avocado"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"                      
-                      IconImage="{StaticResource champagneDrinks}"
+        <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource BananaFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Champagne"
+                      Value="Banana"
                       />
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource cocktailDrinks}"
+                      IconImage="{StaticResource GrapesFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Cocktail"
+                      Value="Grapes"
                       />
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource coffeeDrinks}"
+                      IconImage="{StaticResource LemonFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Coffee"
+                      Value="Lemon"
                       />
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource milkDrinks}"
+                      IconImage="{StaticResource OrangeFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Milk"
+                      Value="Orange"
                       />
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource orange-juiceDrinks}"
+                      IconImage="{StaticResource PeachFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Orange Juice"
+                      Value="Peach"
                       />
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource soft-drinkDrinks}"
+                      IconImage="{StaticResource PearFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Soft Drink"
+                      Value="Pear"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource teaDrinks}"
+                      IconImage="{StaticResource PepperFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Tea"
+                      Value="Pepper"
                       />
         <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource waterDrinks}"
+                      IconImage="{StaticResource PineappleFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Water"
+                      Value="Pineapple"
                       />
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource wineDrinks}"
+                      IconImage="{StaticResource StrawberryFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Wine"
+                      Value="StrawBerry"
                       />
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      IconImage="{StaticResource TomatoFruit}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Tomato"
                       />
 
         <!-- third row -->
@@ -154,7 +157,7 @@
                       SymbolGeometry="{StaticResource BackIcon}"
                       Text="{x:Static resx:Resources.BACK}"
                       SharedSizeGroup="KeyWithSymbolAndText"
-                      Value="{x:Static models:KeyValues.AlphaKeyboardKey}"/>
+                      Value="{x:Static models:KeyValues.FoodKeyboardKey}"/>
 
     </Grid>
 </controls:KeyboardView>

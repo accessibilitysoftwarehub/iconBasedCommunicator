@@ -119,8 +119,8 @@
                           Value="{x:Static models:KeyValues.NextSuggestionsKey}"/>
         
         <controls:Key Grid.Row="1" Grid.Column="0"
-                      Text="TEMP ICON"
-                      SharedSizeGroup="KeyWithText"
+                      IconImage="{StaticResource HappyIconKeyboardIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.IconsIconicKey}"/>
 
         <controls:Key Grid.Row="1" Grid.Column="1"

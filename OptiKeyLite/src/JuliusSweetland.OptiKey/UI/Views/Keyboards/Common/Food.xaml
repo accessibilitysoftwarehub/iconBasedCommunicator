@@ -68,123 +68,117 @@
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource AppleFood}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Apple"
+                      Value="{x:Static models:KeyValues.FruitsKeyboardKey}"
                       />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource BaconFood}"
+                      IconImage="{StaticResource CarrotFood}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Bacon"
+                      Value="{x:Static models:KeyValues.VegetablesKeyboardKey}"
                       />
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource Banana2Food}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Banana"
-                      />
-        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BiscuitFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Biscuit"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BreadFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Bread"
                       />
-        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BurgerFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Burger"
                       />
-
-        <!-- second row -->
-        <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource CarrotFood}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Carrot"
-                      />
-        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CerealFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Ceral"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+
+        <!-- second row -->
+        <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CheeseFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Cheese"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ChickenFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Chicken"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ChocolateFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Chocolate"
                       />
-        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      IconImage="{StaticResource CornFood}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="Corn"
-                      />
-
-        <!-- third row -->
-        <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource EggsFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Eggs"
                       />
-        <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource FishFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Fish"
                       />
-        <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource IceCreamFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="IceCream"
                       />
-        <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+
+        <!-- third row -->
+        <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource NachosFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Nachos"
                       />
-        <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource PieFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Pie"
                       />
-        <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource PorridgeFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Porridge"
                       />
-
-        <!-- fourth row -->
-        <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SausageFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Sausage"
                       />
-        <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SpaghettiFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Spaghetti"
                       />
-        <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="6" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource SteakFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Steak"
                       />
-        <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+
+        <!-- fourth row -->
+        <controls:Key Grid.Row="8" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToastFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Toast"
                       />
-        <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+        <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WrapFood}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="Wrap"
+                      />
+        <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      
+                      />
+        <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      
+                      />
+        <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
+                      
                       />
         <controls:Key Grid.Row="8" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       SymbolGeometry="{StaticResource BackIcon}"
