@@ -233,7 +233,7 @@ namespace OptiKey.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("EnglishUK")]
+        [global::System.Configuration.DefaultSettingValueAttribute("IconsIconic")]
         [global::System.Configuration.SettingsManageabilityAttribute(global::System.Configuration.SettingsManageability.Roaming)]
         public global::OptiKey.Enums.Languages UiLanguage {
             get {
