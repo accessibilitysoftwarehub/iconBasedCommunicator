@@ -263,8 +263,7 @@ namespace OptiKey.UI.ViewModels
                     case Enums.Keyboards.Alpha:
                         Keyboard = new Alpha();
                         windowManipulationService.Restore();
-                        mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
+                        mainWindowManipulationService.ResizeDockToFull();               
                         break;
 
                     case Enums.Keyboards.ConversationAlpha:
@@ -291,49 +290,42 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new Currencies1();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Currencies2:
                         Keyboard = new Currencies2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Diacritics1:
                         Keyboard = new Diacritics1();
                         windowManipulationService.Restore();
-                        mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
+                        mainWindowManipulationService.ResizeDockToFull();                      
                         break;
 
                     case Enums.Keyboards.Diacritics2:
                         Keyboard = new Diacritics2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Diacritics3:
                         Keyboard = new Diacritics3();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Food:
                         Keyboard = new Food();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Menu:
                         Keyboard = new Menu(() => Keyboard = new Alpha());
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.Minimised:
@@ -363,72 +355,61 @@ namespace OptiKey.UI.ViewModels
                         Keyboard = new NumericAndSymbols1();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.NumericAndSymbols2:
                         Keyboard = new NumericAndSymbols2();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.NumericAndSymbols3:
                         Keyboard = new NumericAndSymbols3();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.PhysicalKeys:
                         Keyboard = new PhysicalKeys();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.SizeAndPosition:
                         Keyboard = new SizeAndPosition(() => Keyboard = new Menu(() => Keyboard = new Alpha()));
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
 
                     case Enums.Keyboards.emotionKeyboardKeyboard:
                         Keyboard = new emotionKeyboard();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.PeopleKeyboard:
                         Keyboard = new People();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.SportKeyboard:
                         Keyboard = new Sport();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.CountriesKeyboard:
                         Keyboard = new Countries();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.PlacesKeyboard:
                         Keyboard = new Places();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.WeatherKeyboard:
                         Keyboard = new Weather();
                         windowManipulationService.Restore();
                         mainWindowManipulationService.ResizeDockToFull();
-                        windowManipulationService.Maximise();
                         break;
                     case Enums.Keyboards.BathroomKeyboard:
                         Keyboard = new Bathroom();
