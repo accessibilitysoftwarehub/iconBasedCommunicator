@@ -251,6 +251,28 @@
                 </Style.Triggers>
             </Style>
 
+            <Style x:Key ="KeyImageStyle" TargetType="Image">
+                <Setter Property="Source" Value="{Binding Path=IconImage, RelativeSource={RelativeSource AncestorType={x:Type controls:Key}}, Mode=OneWay}"/>
+
+                <Style.Triggers>
+
+                    <!--Is there an IconImage to display-->
+                    <!-- If this key instance's HasImage property = true (see Key.cs for event handlers -->
+                    <!-- then this element is visible. If HasImage is false, it's not. This sort of beats up -->
+                    <!-- the styling of the symbols and text, but I think that's buried in the other styles.-->
+
+                    <DataTrigger Binding="{Binding Path=HasImage, RelativeSource={RelativeSource AncestorType={x:Type controls:Key}}, Mode=OneWay}" Value="True">
+                        <Setter Property="Visibility" Value="Visible" />
+                    </DataTrigger>
+
+                    <DataTrigger Binding="{Binding Path=HasImage, RelativeSource={RelativeSource AncestorType={x:Type controls:Key}}, Mode=OneWay}" Value="False">
+                        <Setter Property="Visibility" Value="Hidden" />
+                    </DataTrigger>
+
+                </Style.Triggers>
+
+            </Style>
+
             <Style x:Key="KeyLockIconStyle" TargetType="{x:Type Path}">
                 <Setter Property="Visibility" Value="Hidden" />
                 <Setter Property="Fill" Value="{StaticResource KeyDownStateIsLockedDownForegroundBrush}" />
@@ -409,6 +431,7 @@
                                                         </Grid.ColumnDefinitions>
                                                         <TextBlock Style="{StaticResource KeyTextStyle}" />
                                                         <Path Style="{StaticResource KeySymbolStyle}" Width="64" Height="64" VerticalAlignment="Center" />
+                                                        <Image Style="{StaticResource KeyImageStyle}"  />
                                                     </Grid>
                                                 </Viewbox>
                                             </Grid>

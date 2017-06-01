@@ -172,7 +172,9 @@
                       Value="Wrap"
                       />
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
-                      
+                      IconImage="{StaticResource StrawFood}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="Straw"
                       />
         <controls:Key Grid.Row="8" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       

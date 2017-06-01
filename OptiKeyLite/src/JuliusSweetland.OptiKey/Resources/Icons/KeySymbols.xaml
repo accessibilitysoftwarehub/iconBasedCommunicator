@@ -131,6 +131,7 @@
     <BitmapImage x:Key="SausageFood" UriSource="/Resources/Icons/SVG Food Icons/sausage.png" />
     <BitmapImage x:Key="SpaghettiFood" UriSource="/Resources/Icons/SVG Food Icons/spaghetti.png" />
     <BitmapImage x:Key="SteakFood" UriSource="/Resources/Icons/SVG Food Icons/steak.png" />
+    <BitmapImage x:Key="StrawFood" UriSource="/Resources/Icons/SVG Food Icons/straw.png" />
     <BitmapImage x:Key="ToastFood" UriSource="/Resources/Icons/SVG Food Icons/toast.png" />
     <BitmapImage x:Key="WaterFood" UriSource="/Resources/Icons/SVG Food Icons/water.png" />
     <BitmapImage x:Key="WrapFood" UriSource="/Resources/Icons/SVG Food Icons/wrap.png" />

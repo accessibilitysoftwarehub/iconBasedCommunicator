@@ -1365,6 +1365,9 @@
     <Content Include="Resources\Icons\SVG Food Icons\steak.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG Food Icons\straw.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Food Icons\toast.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
