@@ -231,7 +231,7 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="MainWindowFullDockThicknessAsPercentageOfScreen" Roaming="true" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">99</Value>
+      <Value Profile="(Default)">90</Value>
     </Setting>
     <Setting Name="MainWindowDockSize" Roaming="true" Type="OptiKey.Enums.DockSizes" Scope="User">
       <Value Profile="(Default)">Full</Value>
@@ -315,7 +315,7 @@
       <Value Profile="(Default)">NGram</Value>
     </Setting>
     <Setting Name="MainWindowDockPosition" Roaming="true" Type="OptiKey.Enums.DockEdges" Scope="User">
-      <Value Profile="(Default)">Bottom</Value>
+      <Value Profile="(Default)">Top</Value>
     </Setting>
     <Setting Name="KeySelectionTriggerFixationCompleteTimesByKeyValues" Roaming="true" Type="OptiKey.Models.SerializableDictionaryOfTimeSpanByKeyValues" Scope="User">
       <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
