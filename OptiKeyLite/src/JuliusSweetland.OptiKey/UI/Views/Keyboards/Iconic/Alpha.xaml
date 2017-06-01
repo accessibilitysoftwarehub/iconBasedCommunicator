@@ -69,12 +69,12 @@
         <controls:Key Grid.Row="2"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource TickIcon}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="YES"
+                      Value="Yes"
                         />
         <controls:Key Grid.Row="4"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"
                       IconImage="{StaticResource CrossIcon}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="NO"
+                      Value="No"
                         />
         <controls:Key Grid.Row="6"  Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="2"                      
                       IconImage="{StaticResource ThinkingEmotion}"
@@ -106,7 +106,7 @@
         <controls:Key Grid.Row="8"  Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="2"                      
                       IconImage="{StaticResource ConfusedEmotion}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="I Don't UnderStand"
+                      Value="I Don't Understand"
                         />
 
 

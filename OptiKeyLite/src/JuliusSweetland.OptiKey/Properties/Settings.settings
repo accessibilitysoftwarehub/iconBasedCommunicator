@@ -231,7 +231,7 @@
       <Value Profile="(Default)">False</Value>
     </Setting>
     <Setting Name="MainWindowFullDockThicknessAsPercentageOfScreen" Roaming="true" Type="System.Double" Scope="User">
-      <Value Profile="(Default)">90</Value>
+      <Value Profile="(Default)">100</Value>
     </Setting>
     <Setting Name="MainWindowDockSize" Roaming="true" Type="OptiKey.Enums.DockSizes" Scope="User">
       <Value Profile="(Default)">Full</Value>
