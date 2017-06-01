@@ -105,8 +105,10 @@
     <BitmapImage x:Key="HappyIconKeyboardIcon" UriSource="/Resources/Icons/SVG Source Files/HappyIconKeyboard.png" />
     <BitmapImage x:Key="GoodByeIcon" UriSource="/Resources/Icons/SVG Source Files/Goodbye.png" />
     <BitmapImage x:Key="HelloIcon" UriSource="/Resources/Icons/SVG Source Files/Hello.png" />
-    <BitmapImage x:Key="Thank-YouIcon" UriSource="/Resources/Icons/SVG Source Files/Thank-You.png" />    
-    
+    <BitmapImage x:Key="Thank-YouIcon" UriSource="/Resources/Icons/SVG Source Files/Thank-You.png" />
+    <BitmapImage x:Key="MaximiseIcon" UriSource="/Resources/Icons/SVG Source Files/maximise.png" />
+    <BitmapImage x:Key="MainMinimiseIcon" UriSource="/Resources/Icons/SVG Source Files/minimiseicon.png" />
+
     <BitmapImage x:Key="AppleFood" UriSource="/Resources/Icons/SVG Food Icons/apple.png" />
     <BitmapImage x:Key="BaconFood" UriSource="/Resources/Icons/SVG Food Icons/bacon.png" />
     <BitmapImage x:Key="Banana2Food" UriSource="/Resources/Icons/SVG Food Icons/banana.png" />

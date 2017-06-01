@@ -1624,6 +1624,12 @@
     <Content Include="Resources\Icons\SVG Source Files\keyboard.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\Icons\SVG Source Files\maximise.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\SVG Source Files\minimiseicon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Source Files\network.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

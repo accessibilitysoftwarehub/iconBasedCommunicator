@@ -187,12 +187,12 @@
                       Value="{x:Static models:KeyValues.DrinksKeyboardKey}"/>
 
         <controls:Key Grid.Row="8" Grid.Column="5" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource GreetingIcon}"
+                      IconImage="{StaticResource MaximiseIcon}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.Maximise}"/>
 
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource KeyboardOptionIcon}"
+                      IconImage="{StaticResource MainMinimiseIcon}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.Normalise}"/>
         <!-- New Keyboards -->
