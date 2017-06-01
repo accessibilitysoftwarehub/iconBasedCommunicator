@@ -71,6 +71,7 @@ namespace OptiKey.Models
         public static readonly KeyValue LeftShiftKey = new KeyValue(FunctionKeys.LeftShift);
         public static readonly KeyValue LeftWinKey = new KeyValue(FunctionKeys.LeftWin);
         public static readonly KeyValue ManagementWindowKey = new KeyValue(FunctionKeys.ManagementWindow);
+        public static readonly KeyValue Maximise = new KeyValue(FunctionKeys.Maximise);
         public static readonly KeyValue MenuKey = new KeyValue(FunctionKeys.Menu);
         public static readonly KeyValue MenuKeyboardKey = new KeyValue(FunctionKeys.MenuKeyboard);
         public static readonly KeyValue MinimiseKey = new KeyValue(FunctionKeys.Minimise);
@@ -120,6 +121,7 @@ namespace OptiKey.Models
         public static readonly KeyValue MultiKeySelectionIsOnKey = new KeyValue(FunctionKeys.MultiKeySelectionIsOn);
         public static readonly KeyValue NextSuggestionsKey = new KeyValue(FunctionKeys.NextSuggestions);
         public static readonly KeyValue NoQuestionResultKey = new KeyValue(FunctionKeys.NoQuestionResult);
+        public static readonly KeyValue Normalise = new KeyValue(FunctionKeys.Normalise);
         public static readonly KeyValue NumberLockKey = new KeyValue(FunctionKeys.NumberLock);
         public static readonly KeyValue NumericAndSymbols1KeyboardKey = new KeyValue(FunctionKeys.NumericAndSymbols1Keyboard);
         public static readonly KeyValue NumericAndSymbols2KeyboardKey = new KeyValue(FunctionKeys.NumericAndSymbols2Keyboard);

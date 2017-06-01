@@ -6,6 +6,7 @@ namespace OptiKey.Enums
         Floating,
         Hidden,
         Maximised,
-        Minimised
+        Minimised,
+        Normalised
     }
 }

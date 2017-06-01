@@ -15,6 +15,7 @@ namespace OptiKey.Services
         void Hide();
         void IncrementOrDecrementOpacity(bool increment);
         void Maximise();
+        void Normalise();
         void Minimise();
         void Move(MoveToDirections direction, double? amountInPx);
         void ResizeDockToCollapsed();

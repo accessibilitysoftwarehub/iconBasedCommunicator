@@ -457,6 +457,11 @@ namespace OptiKey.UI.ViewModels
                         managementWindow.Show();
                         break;
 
+                    case FunctionKeys.Maximise:
+                        Log.Info("Maximising window");
+                        mainWindowManipulationService.Maximise();
+                        break;
+
                     case FunctionKeys.Minimise:
                         Log.Info("Minimising window.");
                         mainWindowManipulationService.Minimise();
@@ -1116,6 +1121,11 @@ namespace OptiKey.UI.ViewModels
                         {
                             suggestionService.SuggestionsPage++;
                         }
+                        break;
+
+                    case FunctionKeys.Normalise:
+                        Log.Info("Normalising window");
+                        mainWindowManipulationService.Normalise();
                         break;
 
                     case FunctionKeys.NoQuestionResult:

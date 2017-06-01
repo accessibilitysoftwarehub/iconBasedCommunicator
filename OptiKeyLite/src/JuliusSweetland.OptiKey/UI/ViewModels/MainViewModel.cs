@@ -263,7 +263,7 @@ namespace OptiKey.UI.ViewModels
                     case Enums.Keyboards.Alpha:
                         Keyboard = new Alpha();
                         windowManipulationService.Restore();
-                        mainWindowManipulationService.ResizeDockToFull();               
+                        mainWindowManipulationService.ResizeDockToFull();
                         break;
 
                     case Enums.Keyboards.ConversationAlpha:

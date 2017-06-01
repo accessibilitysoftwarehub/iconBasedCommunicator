@@ -138,6 +138,7 @@ namespace OptiKey.Services
             var windowState = getWindowState();
             if (windowState == WindowStates.Maximised) return;
 
+
             var distanceToBottomBoundary = screenBoundsInDp.Bottom - (window.Top + window.ActualHeight);
             var yAdjustmentToBottom = distanceToBottomBoundary < 0 ? distanceToBottomBoundary : (amountInPx / Graphics.DipScalingFactorY).CoerceToUpperLimit(distanceToBottomBoundary);
             var distanceToTopBoundary = window.Top - screenBoundsInDp.Top;
@@ -309,6 +310,19 @@ namespace OptiKey.Services
             }
             window.WindowState = System.Windows.WindowState.Maximized;
             saveWindowState(WindowStates.Maximised);
+        }
+
+        public void Normalise()
+        {
+            Log.Info("Maximise called");
+
+            var windowState = getWindowState();
+            if (windowState != WindowStates.Normalised)
+            {
+                savePreviousWindowState(windowState);
+            }
+            window.WindowState = System.Windows.WindowState.Normal;
+            saveWindowState(WindowStates.Normalised);
         }
 
         public void Minimise()
