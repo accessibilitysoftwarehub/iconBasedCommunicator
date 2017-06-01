@@ -629,8 +629,12 @@
     <EmbeddedResource Include="Properties\Resources.fr-FR.resx">
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Resource Include="Resources\Icons\Management.ico" />
-    <Resource Include="Resources\Icons\Main.ico" />
+    <Content Include="Resources\Icons\Management.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\Icons\Main.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Compile Include="Native\Enums\TOKEN_ELEVATION_TYPE.cs" />
     <Compile Include="Native\Enums\TOKEN_INFORMATION_CLASS.cs" />
     <Compile Include="Native\Structs\OSVERSIONINFO.cs" />
@@ -746,7 +750,9 @@
     <None Include="Resources\Icons\SVG Source Files\MouseScrollToRight.svg" />
     <None Include="Resources\Icons\SVG Source Files\MouseScrollToTop.svg" />
     <None Include="Resources\Icons\SVG Source Files\Language.svg" />
-    <Resource Include="Resources\Icons\Quit.ico" />
+    <Content Include="Resources\Icons\Quit.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\Icons\SVG Animal Icons\ant-eater.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
