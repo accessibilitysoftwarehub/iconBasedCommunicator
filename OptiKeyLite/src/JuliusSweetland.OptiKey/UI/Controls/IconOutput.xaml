@@ -27,31 +27,42 @@
           Grid.IsSharedSizeScope="True">
         <Grid.RowDefinitions>
             <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="{Binding ScratchpadWidthInKeys, RelativeSource={RelativeSource AncestorType=controls:IconOutput}, Converter={StaticResource ConvertToStarGridLength}}" />
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
         </Grid.ColumnDefinitions>
 
-        
-        <controls:Key Grid.Row="0" Grid.Column="0"                   
+
+        <controls:Key Grid.Row="0" Grid.Column="0" Grid.RowSpan="2"                 
                       SymbolGeometry="{StaticResource ClearIcon}" 
                       Text="{x:Static resx:Resources.CLEAR}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.ClearScratchpadKey}"/>
-        <controls:Scratchpad Grid.Row="0" Grid.Column="1"
-                             Text="{Binding DataContext.KeyboardOutputService.Text, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=OneWay}" />
-        <controls:Key Grid.Row="0" Grid.Column="2"
+        <controls:Key Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="1" Grid.RowSpan="2"
                       SymbolGeometry="{StaticResource SpeakIcon}" 
                       Text="{x:Static resx:Resources.SPEAK}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.SpeakKey}"/>
-        <controls:Key Grid.Row="0" Grid.Column="20" Grid.ColumnSpan="2"
+        <controls:Scratchpad Grid.Row="0" Grid.Column="2" Grid.RowSpan="2"
+                      Text="{Binding DataContext.KeyboardOutputService.Text, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=OneWay}" />
+        <controls:Key Grid.Row="0" Grid.Column="3" Grid.ColumnSpan="1" Grid.RowSpan="2"
                       SymbolGeometry="{StaticResource MenuIcon}"
                       Text="{x:Static resx:Resources.MENU}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.MenuKeyboardKey}"/>
+        <controls:Key Grid.Row="0" Grid.Column="4" Grid.ColumnSpan="1" Grid.RowSpan="2"
+                      IconImage="{StaticResource MainMinimiseIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.Normalise}"/>
+        <controls:Key Grid.Row="0" Grid.Column="5" Grid.ColumnSpan="1" Grid.RowSpan="2"
+                      IconImage="{StaticResource MaximiseIcon}"
+                      SharedSizeGroup="KeyWithSymbol"
+                      Value="{x:Static models:KeyValues.Maximise}"/>
     </Grid>
 </UserControl>

@@ -60,7 +60,7 @@
         <!-- will need to revert row span back to 2 when reverting whole keyboard-->
         <controls:IconOutput Grid.Row="1" Grid.Column="1"
                          Grid.RowSpan="1" Grid.ColumnSpan="24" 
-                         ScratchpadWidthInKeys="6"
+                         ScratchpadWidthInKeys="7"
                          NumberOfSuggestionsDisplayed="{Binding Path=DataContext.SuggestionService.SuggestionsPerPage, RelativeSource={RelativeSource AncestorType=controls:KeyboardHost}, Mode=TwoWay}" />
         <!--N.B. This MUST be TwoWay to detect changes to the DataContext used in the binding path-->
 
@@ -185,16 +185,6 @@
                       IconImage="{StaticResource waterDrinks}"
                       SharedSizeGroup="KeyWithSymbol"
                       Value="{x:Static models:KeyValues.DrinksKeyboardKey}"/>
-
-        <controls:Key Grid.Row="8" Grid.Column="5" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource MaximiseIcon}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="{x:Static models:KeyValues.Maximise}"/>
-
-        <controls:Key Grid.Row="8" Grid.Column="9" Grid.ColumnSpan="4" Grid.RowSpan="2"
-                      IconImage="{StaticResource MainMinimiseIcon}"
-                      SharedSizeGroup="KeyWithSymbol"
-                      Value="{x:Static models:KeyValues.Normalise}"/>
         <!-- New Keyboards -->
         
         

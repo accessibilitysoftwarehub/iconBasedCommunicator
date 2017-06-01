@@ -317,12 +317,12 @@ namespace OptiKey.Services
             Log.Info("Maximise called");
 
             var windowState = getWindowState();
-            if (windowState != WindowStates.Normalised)
+            if (windowState != WindowStates.Docked)
             {
                 savePreviousWindowState(windowState);
             }
             window.WindowState = System.Windows.WindowState.Normal;
-            saveWindowState(WindowStates.Normalised);
+            saveWindowState(WindowStates.Docked);
         }
 
         public void Minimise()
