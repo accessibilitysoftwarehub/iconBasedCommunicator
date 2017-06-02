@@ -323,6 +323,7 @@ namespace OptiKey.Services
             }
             window.WindowState = System.Windows.WindowState.Normal;
             saveWindowState(WindowStates.Docked);
+            ApplySavedState();
         }
 
         public void Minimise()
