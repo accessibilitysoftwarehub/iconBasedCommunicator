@@ -72,7 +72,7 @@
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource AmusementParkPlace}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="AmusementPark"/>
+                      Value="Amusement Park"/>
         <controls:Key Grid.Row="2" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BeachPlace}"
                       SharedSizeGroup="KeyWithSymbol"
@@ -114,14 +114,14 @@
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ParkPlace}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="park"
+                      Value="Park"
                       />
 
         <!-- third row -->
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource PlayGroundPlace}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="PlayGround"
+                      Value="Playground"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource PoolPlace}"
@@ -158,7 +158,7 @@
         <controls:Key Grid.Row="8" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ShopingPlace}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Shoping"
+                      Value="Shopping"
                       />
         <controls:Key Grid.Row="8" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
