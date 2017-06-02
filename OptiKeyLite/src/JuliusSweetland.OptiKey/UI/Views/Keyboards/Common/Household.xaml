@@ -88,7 +88,7 @@
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TvHouseHold}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Tv"/>
+                      Value="Television"/>
 
         <!-- second row -->
         <controls:Key Grid.Row="4" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"

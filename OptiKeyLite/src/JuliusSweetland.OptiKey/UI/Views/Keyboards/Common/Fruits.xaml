@@ -120,7 +120,7 @@
         <controls:Key Grid.Row="4" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource StrawberryFruit}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="StrawBerry"
+                      Value="Strawberry"
                       />
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TomatoFruit}"

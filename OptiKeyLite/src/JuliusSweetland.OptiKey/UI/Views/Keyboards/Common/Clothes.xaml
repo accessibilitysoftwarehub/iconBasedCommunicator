@@ -68,7 +68,7 @@
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BackPackClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="BackPack"
+                      Value="Backpack"
                       />
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BagClothes}"
@@ -83,7 +83,7 @@
         <controls:Key Grid.Row="2" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource BowTieClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="BowTie"
+                      Value="Bowtie"
                       />
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource DressClothes}"
@@ -184,7 +184,7 @@
         <controls:Key Grid.Row="8" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WristWatchClothes}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="WristWatch"
+                      Value="Wristwatch"
                       />
         <controls:Key Grid.Row="8" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       SymbolGeometry="{StaticResource BackIcon}"

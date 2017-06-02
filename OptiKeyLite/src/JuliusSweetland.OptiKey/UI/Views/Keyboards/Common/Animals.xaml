@@ -132,7 +132,7 @@
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource hedgehogAnimals}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="HedgeHog"
+                      Value="Hedgehog"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource horseAnimals}"

@@ -105,7 +105,7 @@
         <controls:Key Grid.Row="4" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WatermelonVegeTables}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="WaterMelon"
+                      Value="Watermelon"
                       />
         <controls:Key Grid.Row="4" Grid.Column="9" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       />
