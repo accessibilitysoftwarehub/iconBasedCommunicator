@@ -37,7 +37,7 @@ namespace OptiKey.UI.Windows
             InitializeComponent();
 
             notifyIcon = new System.Windows.Forms.NotifyIcon();
-            notifyIcon.Icon = new System.Drawing.Icon("Resources/Icons/Main.ico");
+            notifyIcon.Icon = new System.Drawing.Icon("Resources/Icons/eyeicon.ico");
             notifyIcon.MouseDoubleClick +=
                 new System.Windows.Forms.MouseEventHandler
                     (mynotifyIcon_Close);

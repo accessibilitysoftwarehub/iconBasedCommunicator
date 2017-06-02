@@ -10,7 +10,7 @@
         WindowStartupLocation="CenterScreen"
         Title="OptiKey"
         Topmost="True"
-        Icon="..\..\Resources\Icons\Main.ico"
+        Icon="..\..\Resources\Icons\eyeicon.ico"
         AllowsTransparency="True"
         ResizeMode="NoResize"
         Style="{DynamicResource MainWindowStyle}"
