@@ -68,7 +68,7 @@
         <controls:Key Grid.Row="2" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource AvalancheWeather}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Avalance"/>
+                      Value="Avalanche"/>
         <controls:Key Grid.Row="2" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ClearWeather}"
                       SharedSizeGroup="KeyWithSymbol"

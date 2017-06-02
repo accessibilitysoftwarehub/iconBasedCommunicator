@@ -22,7 +22,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
-            <RowDefinition Height="*" />
+            <RowDefinition Height="*" /> 
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
             <RowDefinition Height="*" />
@@ -93,7 +93,7 @@
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource CerealFood}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Ceral"
+                      Value="Cereal"
                       />
 
         <!-- second row -->
@@ -125,7 +125,7 @@
         <controls:Key Grid.Row="4" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                        IconImage="{StaticResource IceCreamFood}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="IceCream"
+                      Value="Ice Cream"
                       />
 
         <!-- third row -->

@@ -88,7 +88,7 @@
         <controls:Key Grid.Row="2" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HandBasinBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="HandBasin"
+                      Value="Hand Basin"
                       />
         <controls:Key Grid.Row="2" Grid.Column="21" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource LockBathRoom}"
@@ -132,7 +132,7 @@
         <controls:Key Grid.Row="6" Grid.Column="1" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource ToothbrushBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="ToothBrush"
+                      Value="Tooth Brush"
                       />
         <controls:Key Grid.Row="6" Grid.Column="5" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource TowelBathRoom}"
@@ -147,7 +147,7 @@
         <controls:Key Grid.Row="6" Grid.Column="13" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource WetFloorBathRoom}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="WetFloor"
+                      Value="Wet Floor"
                       />
         <controls:Key Grid.Row="6" Grid.Column="17" Grid.RowSpan="2" Grid.ColumnSpan="4"
                       IconImage="{StaticResource HotWeather}"

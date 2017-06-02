@@ -160,7 +160,7 @@
         <controls:Key Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2"
                       IconImage="{StaticResource Hong-kongCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Hong-Kong"
+                      Value="Hong Kong"
                       />
         <controls:Key Grid.Row="3" Grid.Column="2" Grid.ColumnSpan="2"
                       IconImage="{StaticResource IndiaCountry}"
@@ -185,7 +185,7 @@
         <controls:Key Grid.Row="3" Grid.Column="10" Grid.ColumnSpan="2"
                       IconImage="{StaticResource JamaicaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Jamica"
+                      Value="Jamaica"
                       />
         <controls:Key Grid.Row="3" Grid.Column="12" Grid.ColumnSpan="2"
                       IconImage="{StaticResource JapanCountry}"
@@ -212,12 +212,12 @@
         <controls:Key Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2"
                       IconImage="{StaticResource New-zealandCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="New-Zealand"
+                      Value="New Zealand"
                       />
         <controls:Key Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2"
                       IconImage="{StaticResource North-koreaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="North-Korea"
+                      Value="North Korea"
                       />
         <controls:Key Grid.Row="4" Grid.Column="4" Grid.ColumnSpan="2"
                       IconImage="{StaticResource PakistanCountry}"
@@ -232,7 +232,7 @@
         <controls:Key Grid.Row="4" Grid.Column="8" Grid.ColumnSpan="2"
                       IconImage="{StaticResource Saudi-arabiaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="Saudi-Arabia"
+                      Value="Saudi Arabia"
                       />
         <controls:Key Grid.Row="4" Grid.Column="10" Grid.ColumnSpan="2"
                       IconImage="{StaticResource ScotlandCountry}"
@@ -247,12 +247,12 @@
         <controls:Key Grid.Row="4" Grid.Column="14" Grid.ColumnSpan="2"
                       IconImage="{StaticResource South-africaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="South-Africa"
+                      Value="South Africa"
                       />
         <controls:Key Grid.Row="4" Grid.Column="16" Grid.ColumnSpan="2"
                       IconImage="{StaticResource South-koreaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="South-Korea"
+                      Value="South Korea"
                       />
         <controls:Key Grid.Row="4" Grid.Column="18" Grid.ColumnSpan="2"
                       IconImage="{StaticResource SpainCountry}"
@@ -279,12 +279,12 @@
         <controls:Key Grid.Row="5" Grid.Column="6" Grid.ColumnSpan="2"
                       IconImage="{StaticResource United-kingdomCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="United-Kingdom"
+                      Value="United Kingdom"
                       />
         <controls:Key Grid.Row="5" Grid.Column="8" Grid.ColumnSpan="2"
                       IconImage="{StaticResource United-states-of-americaCountry}"
                       SharedSizeGroup="KeyWithSymbol"
-                      Value="United-States-of-America"
+                      Value="United States of America"
                         />
         <controls:Key Grid.Row="5" Grid.Column="10" Grid.ColumnSpan="2" 
                       IconImage="{StaticResource VietnamCountry}"
